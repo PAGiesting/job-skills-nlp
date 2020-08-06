@@ -1,0 +1,43 @@
+Yelp logo
+Data Analyst
+San Francisco, CA /
+Engineering and Product – Data Science & Analytics /
+Full Time
+At Yelp, it’s our mission to connect people with great local businesses. From a coffee connoisseur’s review of a neighborhood cafe, to a homeowner’s request for a quote to remodel their kitchen, Yelp’s data captures millions of user-business interactions every day.
+
+The Data Science & Analytics team prides itself on harnessing the power of this data. We test and learn, build tools and lead meaningful analyses to extract insights that influence Yelp’s product and business strategy.
+
+We’re looking for a self-motivated critical thinker whose intellectual curiosity is met with a healthy dose of skepticism. You’ll work with our team of data scientists and analysts. You value the integrity of your work, sanity check analyses before drawing conclusions, and take pride in telling stories with data. You are a team player who is an excellent communicator, quick learner, and as excited about Yelp as we are.
+We Are Looking For:
+
+        BA/BS or graduate degree in a quantitative field (mathematics, statistics, economics etc.)3+ years of quantitative industry experience, ideally within the consumer product space or data journalism
+        Excellent SQL skills, fluency in Python, and experience with at least one statistical package (R, Pandas/NumPy/SciPy/matplotlib, Stata, Matlab).
+        Experience writing compelling stories using data that convey technically sound analyses to a broad audience in an accessible way.
+        An eye for compelling data visualization and extensive experience with related tools (Tableau, Mode, Looker).
+        Solid understanding of statistical inference and analytic bias. Familiarity with financial modeling and advanced statistics (regression, non parametrics, predictive modeling) a plus.
+        Strongly desired: understanding of economic data and trends, and ability to examine relationships between our data and macro national/local trends.
+
+What You Will Do:
+
+        Lead broad analytics projects core to Yelp’s business and public reputation, communicate key insights using a combination of writing and data visualizations to a broad audience.
+        Manage tight deadlines and quickly iterate analyses to answer unstructured questions, deliver insightful learnings, and write reports for public consumption.
+        Work cross-functionally with public relations, product, and engineering to define, log, and measure key metrics.
+        Generate dashboards and automate reports that empower teams across the organization to make data-driven decisions.
+        Grow and maintain impactful relationships with stakeholders of both technical and non technical backgrounds with clear and frequent communication.
+
+
+
+At Yelp, we believe that diversity is an expression of all the unique characteristics that make us human: race, age, sexual orientation, gender identity, religion, disability, and education — and those are just a few. We recognize that diverse backgrounds and perspectives strengthen our teams and our product. The foundation of our diversity efforts are closely tied to our core values, which include “Playing Well With Others” and “Authenticity.”
+
+We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-recruiting@yelp.com or 415-969-8488.
+
+CCPA Privacy Notice
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.
+
+Yelp Home Page
+Jobs powered by Lever logo

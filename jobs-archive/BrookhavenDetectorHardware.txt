@@ -1,0 +1,34 @@
+Position Description
+
+Data acquisitions systems are key components of the systems being developed in Brookhaven National Lab’s Instrumentation Division. Modern detectors produce increasingly higher data rates and require complex data handling and management. This is achieved by a careful consideration of information density and power trade-offs and it is implemented through a combination of dedicated front-end circuitry, Field-Programmable Gate Arrays (FPGAs), Data Acquisition (DAQ), commodity computing and storage system. The variety and complexity associated with this development require diverse teams working in close contact with the experimenters.
+
+We are seeking a Scientific Associate with a keen interest and some experience in FPGAs and/or Data Acquisition Systems.  You will join our growing DAQ team and work in close collaboration with other departments across the Laboratory.  The ideal candidate will possess basic knowledge and skills in coding, synthesis, timing analysis, simulation, verification and lab test and debug. 
+
+The selected candidate will be placed at the appropriate professional level dependent upon depth and breadth of relevant knowledge and skills, as well as years of relevant experience. 
+
+Essential Duties and Responsibilities:
+
+Working on our team, you will:
+
+    Conduct and support the research, design and development of data acquisition systems
+    Participate as part of a collaborative team with other departments across the laboratory
+    Perform and participate in testing and measurements at the laboratory and at experiment sites
+
+Position Requirements
+Required Knowledge, Skills, and Abilities:
+
+    Bachelor’s degree in Electrical Engineering, Physics or equivalent discipline
+    Three years' related work experience
+    Understanding of FPGA design using the latest generation Xilinx/Altera, HDL coding using VHDL and/or Verilog and high-speed transceiver design (GTP/GTX/GTH)
+    Programming experience using C/C++ or Python in Windows or Linux
+    Familiarity with standard communication protocols (PCIe, 1/10 Gigabit Ethernet, USB, DDR, AXI)
+    Good problem-solving skills
+    Solid verbal and written communication skills. Ability to articulate and present ideas
+    Ability to work independently, with a team, and in large collaborations
+
+Preferred Knowledge, Skills, and Abilities:
+
+    Master's degree in related discipline
+    Printed Circuit Board schematic capture and layout experience
+    Experience with hardware circuit design including ADCs, DACs, microprocessors, memories, linear/switching voltage regulators
+    Experience supporting scientific research programs

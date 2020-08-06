@@ -1,0 +1,239 @@
+ 
+ 
+ 
+ 
+Skip to Main Content <javascript:SetMainConentFocus();>
+Processing... please wait
+ 
+ 
+ 
+ptnbsid=O64zDv%2f1zYvH106w9OgduVTtZuY%3d
+My Favorite Jobs <javascript:DoBack('win0')>
+
+
+  Job Description
+
+Home
+<javascript:DoHome('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage')>
+Actions <javascript:submitAction_win0(document.win0,'PT_ACTION_MENU');>
+
+  *
+      o
+        Careers
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_HOME_PB');>
+      o
+        Search Jobs
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_VIEW_LAST_BTN');>
+      o
+        My Job Notifications
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_NOTIFY_BTN');>
+      o
+        My Job Applications
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_APP_BTN');>
+      o
+        My Favorite Jobs
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_FVO_JOB_BTN');>
+      o
+        My Saved Searches
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_SAVED_BTN');>
+      o
+        My Account Information
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_PROF_BTN');>
+      o
+        Sign Out
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_LOGOUT_PB');>
+  *
+  *
+  *
+      o
+      o
+      o
+      o
+        Home
+        <javascript:DoHome('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage')>
+      o
+      o
+      o
+      o
+      o
+      o
+      o
+        My Preferences
+        <javascript:DoURLWarning('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/PTGP_MENU.PTGP_USERPREF_FL.GBL?CONTEXTIDPARAMS=PSPR1---HRS_CG_SEARCH_FL')>
+      o
+        Help <javascript:DoHelp('PeopleSoft Online Help')>
+      o
+        Sign Out
+        <javascript:DoLogout('https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/?cmd=logout')>
+
+ 
+ 
+Close <javascript:submitAction_win0(document.win0,'PT_CONFIRM_CLOSE');>
+Previous Job
+<javascript:submitAction_win0(document.win0,'DERIVED_HRS_FLU_HRS_PREVIOUS_PB');>
+Job Title
+R&D Materials Scientist (Experienced)
+Next Job
+<javascript:submitAction_win0(document.win0,'DERIVED_HRS_FLU_HRS_NEXT_PB');>
+Apply for Job <javascript:submitAction_win0(document.win0,'APPLYJOB');>
+Job ID
+672548
+Location
+Livermore, CA
+Full/Part Time
+Full-Time
+Regular/Temporary
+Regular
+Remove from Favorite Jobs
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK2_HRS_FAVORITE_ICN$128$');>
+Email this Job
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK_HRS_CE_EML_FRND$148$');>
+
+
+    What Your Job Will Be Like
+
+ 
+
+We are seeking an experienced R&D Materials Scientist to lead an effort
+in the area of dynamic processes in materials and solid-state devices,
+including but not limited to the development of ultrafast optical and
+electron-based methods to study structure-property relationships in
+condensed matter systems. You exhibit strong scientific leadership, an
+ability to work independently, and contribute creatively in an
+interdisciplinary research environment. You will develop and lead
+forefront research projects with internal and external funding sources,
+present results at national/international meetings and conferences, and
+publish leading-edge research in the peer-reviewed literature.
+
+
+    Qualifications We Require
+
+ 
+
+  * Ph.D. degree in physics, chemistry, materials science, engineering,
+    or a closely related field
+  * Experience with advanced characterization techniques to study
+    dynamical processes in solid-state materials and condensed matter
+    systems
+  * Knowledge/experience of materials and condensed matter physics
+  * Strong record of publications in peer-reviewed journals and
+    presentations at scientific conferences as leading author
+  * Experience developing successful scientific proposals
+
+
+    Qualifications We Desire
+
+ 
+
+  * Experience with ultrafast optical experimentation coupled with
+    electron microscope
+  * Comprehensive knowledge of emerging electronic materials, such as
+    transition metal oxides, transition metal dichalcogenides, and low
+    dimensional quantum materials
+  * Research experience with emerging material and devices for energy
+    efficient computing applications
+  * Ability to obtain a DOE Q-clearance
+
+
+    About Our Team
+
+ 
+
+The Materials Physics team performs fundamental research on the
+electronic and atomic structure and properties of materials to support
+programs in energy research, device physics, materials reliability, and
+national security. Specific activities include experimental and
+theoretical studies of surface electronic and atomic structures;
+dynamics of metals, oxides, low-dimensional materials, and adsorbates;
+atomic-scale structure and composition analysis of metals,
+semiconductors, and composites; electrical and optical properties of
+low-dimensional semiconductors and optoelectronic devices; and the
+structural and electrochemical characterization of solid-state ionic
+materials. The team supports internal and external sponsors and
+government agencies that seek solutions to problems of fundamental
+scientific inquiry, energy sustainability, and national security.
+
+
+    About Sandia
+
+ 
+
+Sandia National Laboratories is the nation’s premier science and
+engineering lab for national security and technology innovation, with
+teams of specialists focused on cutting-edge work in a broad array of
+areas. Some of the main reasons we love our jobs:
+
+  * Challenging work with amazing impact that contributes to security,
+    peace, and freedom worldwide
+  * Extraordinary co-workers
+  * Some of the best tools, equipment, and research facilities in the world
+  * Career advancement and enrichment opportunities
+  * Flexible schedules, generous vacations, strong medical and other
+    benefits, competitive 401k, learning opportunities, relocation
+    assistance and amenities aimed at creating a solid work/life balance*
+
+
+/World-changing technologies. Life-changing careers.  /Learn more about
+Sandia at: http://www.sandia.gov <http://www.sandia.gov/>
+
+*These benefits vary by job classification.
+
+
+    Security Clearance
+
+ 
+
+This position does not currently require a Department of Energy (DOE)
+security clearance.
+
+Sandia will conduct a pre-employment drug test and background review
+that includes checks of personal references, credit, law enforcement
+records, and employment/education verifications. Furthermore, employees
+in New Mexico need to pass a U.S. Air Force background screen for access
+to Kirtland Air Force Base. Substance abuse or illegal drug use,
+falsification of information, criminal activity, serious misconduct or
+other indicators of untrustworthiness can cause access to be denied or
+terminated, resulting in the inability to perform the duties assigned
+and subsequent termination of employment.
+
+If hired without a clearance and it subsequently becomes necessary to
+obtain and maintain one for the position, or you bid on positions that
+require a clearance, a pre-processing background review may be conducted
+prior to a required federal background investigation. Applicants for a
+DOE security clearance need to be U.S. citizens. If you hold more than
+one citizenship (i.e., of the U.S. and another country), your ability to
+obtain a security clearance may be impacted.
+
+Members of the workforce (MOWs) hired at Sandia who require uncleared
+access for greater than 179 days during their employment, are required
+to go through the Uncleared Personal Identity Verification (UPIV)
+process. Access includes physical and/or cyber (logical) access, as well
+as remote access to any NNSA information technology (IT) systems. UPIV
+requirements are not applicable to individuals who require a DOE
+personnel security clearance for the performance of their SNL employment
+or to foreign nationals. The UPIV process will include the completion of
+a USAccess Enrollment, SF-85 (Questionnaire for Non-Sensitive Positions)
+and OF-306 (Declaration of for Federal Employment). An unfavorable UPIV
+determination will result in immediate retrieval of the SNL issued
+badge, removal of cyber (logical) access and/or removal from SNL
+subcontract.  All MOWs may appeal the unfavorable UPIV determination to
+DOE/NNSA immediately. If the appeal is unsuccessful, the MOW may try to
+go through the UPIV process one year after the decision date.
+
+
+    EEO
+
+ 
+
+All qualified applicants will receive consideration for employment
+without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, age, disability, or veteran status and any
+other protected class under state or federal law.
+
+Apply for Job
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK_HRS_APPLY_PB');>
+
+ 
+test
+
+<javascript:DoBack('win0')>

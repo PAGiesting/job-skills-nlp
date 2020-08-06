@@ -1,0 +1,226 @@
+ 
+ 
+ 
+ 
+Skip to Main Content <javascript:SetMainConentFocus();>
+Processing... please wait
+ 
+ 
+ 
+ptnbsid=O64zDv%2f1zYvH106w9OgduVTtZuY%3d
+My Favorite Jobs <javascript:DoBack('win0')>
+
+
+  Job Description
+
+Home
+<javascript:DoHome('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage')>
+Actions <javascript:submitAction_win0(document.win0,'PT_ACTION_MENU');>
+
+  *
+      o
+        Careers
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_HOME_PB');>
+      o
+        Search Jobs
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_VIEW_LAST_BTN');>
+      o
+        My Job Notifications
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_NOTIFY_BTN');>
+      o
+        My Job Applications
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_APP_BTN');>
+      o
+        My Favorite Jobs
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_FVO_JOB_BTN');>
+      o
+        My Saved Searches
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_SAVED_BTN');>
+      o
+        My Account Information
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_PROF_BTN');>
+      o
+        Sign Out
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_LOGOUT_PB');>
+  *
+  *
+  *
+      o
+      o
+      o
+      o
+        Home
+        <javascript:DoHome('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage')>
+      o
+      o
+      o
+      o
+      o
+      o
+      o
+        My Preferences
+        <javascript:DoURLWarning('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/PTGP_MENU.PTGP_USERPREF_FL.GBL?CONTEXTIDPARAMS=PSPR1---HRS_CG_SEARCH_FL')>
+      o
+        Help <javascript:DoHelp('PeopleSoft Online Help')>
+      o
+        Sign Out
+        <javascript:DoLogout('https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/?cmd=logout')>
+
+ 
+ 
+Close <javascript:submitAction_win0(document.win0,'PT_CONFIRM_CLOSE');>
+Previous Job
+<javascript:submitAction_win0(document.win0,'DERIVED_HRS_FLU_HRS_PREVIOUS_PB');>
+Job Title
+Data Science (Early/Mid-Career)
+Next Job
+<javascript:submitAction_win0(document.win0,'DERIVED_HRS_FLU_HRS_NEXT_PB');>
+Apply for Job <javascript:submitAction_win0(document.win0,'APPLYJOB');>
+Job ID
+672536
+Location
+Albuquerque, NM
+Full/Part Time
+Full-Time
+Regular/Temporary
+Regular
+Remove from Favorite Jobs
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK2_HRS_FAVORITE_ICN$128$');>
+Email this Job
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK_HRS_CE_EML_FRND$148$');>
+
+
+    What Your Job Will Be Like
+
+ 
+We are seeking an outstanding Data Science (Systems Data Reserach
+Analyst) professional to join our multi-disciplinary team!  You will
+work in an innovative and collaborative environment to address national
+security challenges through research and development in data science,
+geospatial science, computer science, complex systems, autonomous
+systems, artificial intelligence, and machine learning. 
+
+On any given day, the successful candidate may be called on to:
+
+  * Brainstorm new approaches to difficult problems
+  * Publish work results in a technical journal or conference
+  * Analyze and integrate information from multiple sources into a
+    coherent form
+  * Apply and combine innovative techniques from multiple fields of science
+  * Discover and develop novel geospatial data algorithms and
+    manipulation techniques
+  * Advance the state-of-the-art in model validation
+
+
+    Qualifications We Require
+
+ 
+
+  * Master's degree in Computer Science, Mathematics, Geological
+    Science, Statistics or other relevant discipline; or equivalent
+    combination of relevant education and experience
+  * Proficiency in computer programming languages such as Java, C++, or
+    Python;
+  * Ability to obtain and maintain a US DOE security Q clearance 
+
+
+    Qualifications We Desire
+
+ 
+
+  * Ph.D. in disciplines listed above or related subject
+  * Demonstrated ability to conduct research and development
+  * Experience in remote sensing, geospatial data and formats, or
+    geospatial sciences;
+  * Complex algorithm development experience
+  * Demonstrated strong software development skills and familiarity with
+    modern software development methodologies, practices, and tools
+  * Experience working successfully with researchers, analysts, and
+    other software engineers
+  * Experience with modeling and simulation
+  * Excellent communication skills and a demonstrated ability to develop
+    technical ideas and results and present them in oral and written form
+
+
+    About Our Team
+
+ 
+
+The Complex Systems for National Security Group (Group 8720 in
+Albuquerque, New Mexico) researches and applies mathematical,
+computational science, and systems engineering approaches to analyze,
+predict and influence the behavior of complex, highly interdependent
+systems critical to our nation’s security. We provide capabilities
+motivated by the challenge of understanding, quantifying, and
+controlling the resilience of key complex systems critical to the
+laboratories’ National Security mission. The approaches and capabilities
+we provide are used to address complicated system and enterprise-level
+challenges facing a diverse set of national security partners. We also
+conduct work and advance capabilities in the areas of optimization, data
+science, artificial intelligence/machine learning/deep learning, complex
+systems modeling and analysis, and geospatial analytics.
+
+
+    About Sandia
+
+ 
+
+Sandia National Laboratories is the nation’s premier science and
+engineering lab for national security and technology innovation, with
+teams of specialists focused on cutting-edge work in a broad array of
+areas. Some of the main reasons we love our jobs:
+
+  * Challenging work with amazing impact that contributes to security,
+    peace, and freedom worldwide
+  * Extraordinary co-workers
+  * Some of the best tools, equipment, and research facilities in the world
+  * Career advancement and enrichment opportunities
+  * Flexible schedules, generous vacations, strong medical and other
+    benefits, competitive 401k, learning opportunities, relocation
+    assistance and amenities aimed at creating a solid work/life balance*
+
+
+/World-changing technologies. Life-changing careers.  /Learn more about
+Sandia at: http://www.sandia.gov <http://www.sandia.gov/>
+
+*These benefits vary by job classification.
+
+
+    Security Clearance
+
+ 
+
+Sandia is required by DOE to conduct a pre-employment drug test and
+background review that includes checks of personal references, credit,
+law enforcement records, and employment/education verifications.
+Applicants for employment need to be able to obtain and maintain a DOE
+Q-level security clearance, which requires U.S. citizenship. If you hold
+more than one citizenship (i.e., of the U.S. and another country), your
+ability to obtain a security clearance may be impacted.
+
+Applicants offered employment with Sandia are subject to a federal
+background investigation to meet the requirements for access to
+classified information or matter if the duties of the position require a
+DOE security clearance. Substance abuse or illegal drug use,
+falsification of information, criminal activity, serious misconduct or
+other indicators of untrustworthiness can cause a clearance to be denied
+or terminated by DOE, resulting in the inability to perform the duties
+assigned and subsequent termination of employment.
+
+
+    EEO
+
+ 
+
+All qualified applicants will receive consideration for employment
+without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, age, disability, or veteran status and any
+other protected class under state or federal law.
+
+Apply for Job
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK_HRS_APPLY_PB');>
+
+ 
+test
+
+<javascript:DoBack('win0')>

@@ -1,0 +1,133 @@
+Skip Navigation <#pc-rtg-main>
+ 
+
+	
+giesting@alumni.nd.edu
+Update Profile Information
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/profile.do?functionName=getUpdateProfilePage>
+| Sign Out
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/registration.do?functionName=logout>
+
+Job Details
+View Search Results
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/search.do?functionName=getSearchResult>
+View Job Cart (0)
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/jobcart.do?functionName=getJobCartPage>
+Send This Job to a Friend
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/jobDetails.do?functionName=emailFriend&jobPostId=8848&localeCode=en-us>
+View My Account
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/profile.do?functionName=getAccountSummaryPage>
+
+Software Scientist-MICCoM
+Requisition Number: 407706 	Location: Lemont, IL
+Functional Area: Research and Development 	Division: MSD-Materials
+Science Division
+Employment Category: Temporary 6 Months or Greater 	Shift: 8:30 - 5:00
+Level (Grade): RD1 	
+
+Share: 	Share on Facebook! Facebook
+<http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.anl.gov%2Fcareers%2Fapply-job%2Fexternal-applicants%3FcpUrl%3Dhttps%3A%2F%2Fcareers.peopleclick.com%2Fcareerscp%2Fclient_argonnelab%2Fexternal%2Fen_US%2Fgateway.do%3FfunctionName%3DviewFromLink%26localeCode%3Den-us%26jobPostId%3D8848%26source%3DFacebook%26sourceType%3DNETWORKING_SITE&p[title]=Software%20Scientist-MICCoM>
+	Share on LinkedIn! LinkedIn
+<http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.anl.gov%2Fcareers%2Fapply-job%2Fexternal-applicants%3FcpUrl%3Dhttps%3A%2F%2Fcareers.peopleclick.com%2Fcareerscp%2Fclient_argonnelab%2Fexternal%2Fen_US%2Fgateway.do%3FfunctionName%3DviewFromLink%26localeCode%3Den-us%26jobPostId%3D8848%26source%3DLinkedIn%26sourceType%3DNETWORKING_SITE&title=Software%20Scientist-MICCoM&summary=%3Cp%3EThe%20Midwest%20integrated%20center%20for%20computational%20materials%20(MICCoM%2C%20%3Ca%20rel%3D%22noopener%20noreferrer%22%20href%3D%22http%3A%2F%2Fmiccom-center.org%2F%22%20target%3D%22_blank%22%3E%3Cspan%20class%3D%22WGA2%22%3Ehttp%3A%2F%2Fmiccom-center.org%3C%2Fspan%3E%3C%2F&source=Company%20Career%20Site>
+	Share on Twitter! Twitter
+<http://twitter.com/share?url=http%3A%2F%2Fwww.anl.gov%2Fcareers%2Fapply-job%2Fexternal-applicants%3FcpUrl%3Dhttps%3A%2F%2Fcareers.peopleclick.com%2Fcareerscp%2Fclient_argonnelab%2Fexternal%2Fen_US%2Fgateway.do%3FfunctionName%3DviewFromLink%26localeCode%3Den-us%26jobPostId%3D8848%26source%3DTwitter%26sourceType%3DNETWORKING_SITE&text=I%27m%20reading%20about%20this%20job%3A%20Software%20Scientist-MICCoM>
+
+
+	
+
+Position Description
+
+The Midwest integrated center for computational materials (MICCoM,
+http://miccom-center.org <http://miccom-center.org/>) has one opening
+for a software scientist at Argonne National Laboratory to develop codes
+to perform first principle molecular dynamics simulations and GW-BSE
+calculations on pre-exascale and exascale platforms. 
+
+Candidates are sought with experience in the development of scientific 
+software for high performance architectures and experience in coding on
+GPUs to support the development and deployment of Qbox
+(http://qboxcode.org/ <http://qboxcode.org/>) and WEST
+(http://www.west-code.org/ <http://www.west-code.org/>) onto accelerated
+heterogeneous architectures based on GPUs. 
+
+The successful candidate will work in collaboration with code teams,
+library and tools developers, with frequent interactions with the
+Argonne Leadership Computing Facility (ALCF) and the National Energy
+Research Scientific Computing Center (NERSC). 
+
+The candidate will be a part of a multidisciplinary team composed of
+computational and domain scientists, graduate students and post-doctoral
+research associates and will have the unique opportunity not only to
+enable the transition of electronic structure codes to exascale
+architecture, but also to participate in the use of these codes to
+tackle complex materials science problems with focus on materials for
+sustainability and quantum information science. 
+
+The successful candidate may be considered for the promotion to staff
+scientists at Argonne National Laboratory depending on performance and
+mutual interest. 
+
+Major duties and responsibilities:
+
+  * Code porting for high performance architectures
+  * Development of scientific workflows that leverage exascale resources
+  * Debug/profile/optimization of software
+
+Position Requirements
+
+Skills and experience:
+
+  * Experience with GPU and parallel/manycore computer architectures,
+    threading, and vectorization
+  * Proficient in C++, Fortran, Python
+  * Experience with algorithm optimization and parallel programming
+    (MPI, OpenMP)
+  * Knowledge of software design, debugging/profiling tools
+  * Ability to create, maintain, and support high-quality software using
+    Git version-control system
+  * Excellent communication skills both verbal and written
+  * Considerable independent judgment and critical thinking
+  * Ability to work in a team
+  * Basic knowledge of Qbox and WEST is an advantage but is not required. 
+
+Typical candidates will be independent, motivated and ambitious
+individuals with MSc in Materials Science, Computer Science, Physics,
+Chemistry or Chemical Engineering or with comparable skills and
+experience. They will be individual motivated to work in an
+interdisciplinary team and with an interest to possibly transition into
+a staff position over a short period of time.
+
+As an equal employment opportunity and affirmative action employer, and
+in accordance with our core values of impact, safety, respect, integrity
+and teamwork, Argonne National Laboratory is committed to a diverse and
+inclusive workplace that fosters collaborative scientific discovery and
+innovation. In support of this commitment, Argonne encourages
+minorities, women, veterans and individuals with disabilities to apply
+for employment. Argonne considers all qualified applicants for
+employment without regard to age, ancestry, citizenship status, color,
+disability, gender, gender identity, genetic information, marital
+status, national origin, pregnancy, race, religion, sexual orientation,
+veteran status or any other characteristic protected by law.
+
+Argonne employees, and certain guest researchers and contractors, are
+subject to particular restrictions related to participation in Foreign
+Government Talent Recruitment Programs, as defined and detailed in
+United States Department of Energy Order 486.1. You will be asked to
+disclose any such participation in the application phase for review by
+Argonne’s Legal Department.
+
+Move Up <#top> 	  	Back to top <#top>
+
+View Search Results
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/search.do?functionName=getSearchResult>
+View Job Cart (0)
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/jobcart.do?functionName=getJobCartPage>
+Send This Job to a Friend
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/jobDetails.do?functionName=emailFriend&jobPostId=8848&localeCode=en-us>
+View My Account
+<https://careers.peopleclick.com/careerscp/client_argonnelab/external/profile.do?functionName=getAccountSummaryPage>
+
+
+	
+
+jobDetails

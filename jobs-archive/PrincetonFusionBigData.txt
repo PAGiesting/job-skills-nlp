@@ -1,0 +1,47 @@
+
+Computational Scientist
+Requisition # 2020-11740
+Date Posted 2 months ago(5/20/2020 4:17 PM)
+
+Department
+    PPPL Theory
+
+Category
+    Research and Laboratory
+
+Full-Time / Part-Time
+    Full-Time
+
+Overview
+
+The Princeton Plasma Physics Laboratory (PPPL) is seeking a highly skilled computational scientist who will have major technical responsibility for high-performance computing related to uncertainty quantification or porting of PPPL codes to upcoming exascale computers. In particular, PPPL is seeking an expert in the area of the mathematical uncertainty quantification of simulation results or the scalable GPU and C++ computing on extreme scale high-performance computers at DOE facilities.
+
+ 
+
+The successful candidate for this position will be poised to develop creativity, foresight, and mature professional judgment in anticipating and solving unprecedented computational problems, in determining project objectives and requirements, and in developing standards and guides for diverse software engineering, computing, and scientific activities. The successful candidate will also initiate and maintain extensive contacts with key software engineers and scientists in other areas of the Laboratory and in other organizations and skillfully negotiate critical issues.
+Responsibilities
+
+The successful candidate will have the following core duties and responsibilities:
+
+    Provide technical guidance in the application of uncertainty quantification modeling of code results or in the application of plasma codes to high performance GPU computers on DOE and PPPL facilities.
+    Plan efforts in broad mathematical uncertainty quantification modeling and GPU code-optimization and the relevant library areas of considerable novelty and importance where precedents are lacking.
+    Stay abreast of new computational or mathematical technology or library developments in order to be able to recommend changes in emphasis of computational programs or new programs warranted by such developments.
+    Provide timely and accurate advice to other computational physicists who consult with the successful candidate
+
+The duty will require 100% employment.
+Qualifications
+
+Education and Experience: 
+
+    At least approximately 3 years of experience in the related field after PhD degree in computational sciences, applied mathematics, natural sciences, or engineering.
+
+Knowledge, Skills and Abilities:
+
+    Fluent in the modern parallelization tools such as MPI, OpenMP, and GPU off-loading.
+    Some experience in the large-scale simulation or uncertainty quantification tools.
+    Fluent in the scientific programing languages such as Fortran or C++.
+    Must be able to show collaborative experience with code authors and other software engineers.
+
+Working Conditions: 
+
+    The job will be performed on-site, but off-site performance is possible.

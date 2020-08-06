@@ -1,0 +1,254 @@
+ 
+ 
+ 
+ 
+Skip to Main Content <javascript:SetMainConentFocus();>
+Processing... please wait
+ 
+ 
+ 
+ptnbsid=O64zDv%2f1zYvH106w9OgduVTtZuY%3d
+My Favorite Jobs <javascript:DoBack('win0')>
+
+
+  Job Description
+
+Home
+<javascript:DoHome('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage')>
+Actions <javascript:submitAction_win0(document.win0,'PT_ACTION_MENU');>
+
+  *
+      o
+        Careers
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_HOME_PB');>
+      o
+        Search Jobs
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_VIEW_LAST_BTN');>
+      o
+        My Job Notifications
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_NOTIFY_BTN');>
+      o
+        My Job Applications
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_APP_BTN');>
+      o
+        My Favorite Jobs
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_FVO_JOB_BTN');>
+      o
+        My Saved Searches
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_SAVED_BTN');>
+      o
+        My Account Information
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_MY_PROF_BTN');>
+      o
+        Sign Out
+        <javascript:submitAction_win0(document.win0,'DERIVED_HRS_CG_HRS_LOGOUT_PB');>
+  *
+  *
+  *
+      o
+      o
+      o
+      o
+        Home
+        <javascript:DoHome('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/s/WEBLIB_PTBR.ISCRIPT1.FieldFormula.IScript_StartPage')>
+      o
+      o
+      o
+      o
+      o
+      o
+      o
+        My Preferences
+        <javascript:DoURLWarning('https://cg.sandia.gov/psc/applicant/EMPLOYEE/HRMS/c/PTGP_MENU.PTGP_USERPREF_FL.GBL?CONTEXTIDPARAMS=PSPR1---HRS_CG_SEARCH_FL')>
+      o
+        Help <javascript:DoHelp('PeopleSoft Online Help')>
+      o
+        Sign Out
+        <javascript:DoLogout('https://cg.sandia.gov/psp/applicant/EMPLOYEE/HRMS/?cmd=logout')>
+
+ 
+ 
+Close <javascript:submitAction_win0(document.win0,'PT_CONFIRM_CLOSE');>
+Previous Job
+Job Title
+R&D, Chemistry (Experienced)
+Next Job
+<javascript:submitAction_win0(document.win0,'DERIVED_HRS_FLU_HRS_NEXT_PB');>
+Apply for Job <javascript:submitAction_win0(document.win0,'APPLYJOB');>
+Job ID
+672613
+Location
+Carlsbad, NM
+Full/Part Time
+Full-Time
+Regular/Temporary
+Regular
+Remove from Favorite Jobs
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK2_HRS_FAVORITE_ICN$128$');>
+Email this Job
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK_HRS_CE_EML_FRND$148$');>
+
+
+    What Your Job Will Be Like
+
+ 
+
+*Are you passionate about your work and willing to join a dynamic team
+that helps seek solutions to some of the most challenging issues facing
+our nation's security?*
+
+We are seeking a dedicated and creative scientist or engineer in the
+areas of chemistry or geoscience to support scientific investigations of
+the geochemical environment and conditions of the Waste Isolation Pilot
+Plant (WIPP), the world's only licensed and operating deep geological
+repository for the disposal of transuranic waste. You will use your
+experience with chemical analyses in brine systems to advance
+geochemical models of WIPP’s chemical conditions. You will work with a
+multi-disciplinary team to identify analyses needing to be performed,
+design and conduct those analyses, leading to parameterization of the
+geochemical models for WIPP.
+
+On any given day, you may be called on to:
+
+  * Plan and support daily work activities with the geochemistry team;
+  * Participate directly in the geochemistry team’s work activities as
+    needed;
+  * Analyze, integrate, compile and trend experimental data and results,
+    and prepare technical reports and documents for the DOE and Regulators;
+  * Report on the progress of work done by the team;
+  * Execute technical work such as Test Plans, Analyses Plans, Milestone
+    Reports, and Analyses Reports;
+  * Expertly guide the team on crafting scientific investigations;
+  * Provide expert guidance on solving problems based on sound technical
+    bases;
+  * Provide expert guidance and technical recommendations to Management
+    and DOE about geochemistry R&D roadmaps and strategic directions of
+    geochemistry work.
+
+/*Applicant must reside in or have the ability to reside in Carlsbad,
+New Mexico.*/
+
+
+    Qualifications We Require
+
+ 
+
+  * Master's degree in Chemistry, Geoscience or closely related
+    discipline (i.e. Chemical Engineering or Materials Science) with a
+    minimum of seven years related experience, or a PhD, with three
+    years related experience;
+  * Experience with chemical analyses in brine systems;
+  * Experience with analytical chemistry methods and experimental design;
+  * Experience with aqueous geochemistry and solute and solvent
+    interactions;
+  * Ability to obtain and maintain a DOE L-level security clearance.
+
+
+    Qualifications We Desire
+
+ 
+
+  * Experience working with R&D in a regulatory environment;
+  * Experience working within rigorous QA/QC requirements;
+  * Working knowledge of the following instruments used in analytical
+    chemistry: ICP-MS, ICP-AES, Ion Chromatograph, CO2 Coulometer, ASAP
+    2020, Scanning electron microscope and Electron Dispersion
+    Spectrometer, Gloveboxes, General: balances, pipettes, titrators, pH
+    meters, stirrers, sonicator, glassware;
+  * Working knowledge using equipment for high ionic strength solutions;
+  * Familiarity with geochemical models that utilize ion
+    speciation-solubility parameters;
+  * Familiarity with operation of standard laboratory equipment, and
+    standard laboratory processes.
+  * Ability to coordinate and teach others basic chemistry tasks,
+    including the operation of standard laboratory equipment, and
+    standard laboratory processes.
+  * Proven expertise in coordinating the management of multiple,
+    competing sample collection, analysis, and data entry projects;
+  * Demonstrated excellence in the technical field, excellent oral and
+    written communication skills, and demonstrated interpersonal skills
+    including respectful collaboration and communication.
+
+
+    About Our Team
+
+ 
+
+The Waste Isolation Pilot Plant (WIPP) is the world's only licensed and
+operating deep geologic repository for the disposal of transuranic
+waste. WIPP is operated by Nuclear Waste Partnership, LLC, under
+contract to the Department of Energy's Carlsbad Field Office
+(CBFO). Sandia provides scientific advice to CBFO in many areas,
+including modifications to the repository's operating permits, periodic
+recertification of the repository, on-going monitoring of repository
+performance against regulatory requirements, and optimization of the
+national transuranic waste complex.  The Repository Performance
+Department, part of Sandia's Defense Waste Management Programs Group,
+provides the experimental and fieldwork capability needed to assist CBFO
+in assuring continued and uninterrupted certification and permitting of
+WIPP.
+
+
+    About Sandia
+
+ 
+
+Sandia National Laboratories is the nation’s premier science and
+engineering lab for national security and technology innovation, with
+teams of specialists focused on cutting-edge work in a broad array of
+areas. Some of the main reasons we love our jobs:
+
+  * Challenging work with amazing impact that contributes to security,
+    peace, and freedom worldwide
+  * Extraordinary co-workers
+  * Some of the best tools, equipment, and research facilities in the world
+  * Career advancement and enrichment opportunities
+  * Flexible schedules, generous vacations, strong medical and other
+    benefits, competitive 401k, learning opportunities, relocation
+    assistance and amenities aimed at creating a solid work/life balance*
+
+
+/World-changing technologies. Life-changing careers.  /Learn more about
+Sandia at: http://www.sandia.gov <http://www.sandia.gov/>
+
+*These benefits vary by job classification.
+
+
+    Security Clearance
+
+ 
+
+Sandia is required by DOE to conduct a pre-employment drug test and
+background review that includes checks of personal references, credit,
+law enforcement records, and employment/education verifications.
+Applicants for employment need to be able to obtain and maintain a DOE
+L-level security clearance, which requires U.S. citizenship. If you hold
+more than one citizenship (i.e., of the U.S. and another country), your
+ability to obtain a security clearance may be impacted.
+
+Applicants offered employment with Sandia are subject to a federal
+background investigation to meet the requirements for access to
+classified information or matter if the duties of the position require a
+DOE security clearance. Substance abuse or illegal drug use,
+falsification of information, criminal activity, serious misconduct or
+other indicators of untrustworthiness can cause a clearance to be denied
+or terminated by the DOE, resulting in the inability to perform the
+duties assigned and subsequent termination of employment.
+
+
+    EEO
+
+ 
+
+All qualified applicants will receive consideration for employment
+without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, age, disability, or veteran status and any
+other protected class under state or federal law.
+
+Apply for Job
+<javascript:submitAction_win0(document.win0,'HRS_SCH_WRK_HRS_APPLY_PB');>
+
+ 
+test
+
+<javascript:DoBack('win0')>

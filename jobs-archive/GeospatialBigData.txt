@@ -1,0 +1,57 @@
+Hello Paul Giesting
+
+My name is Keshav and I represent US Tech Solutions. US Tech Solutions is a global staff augmentation firm providing a wide-range of talent on-demand and total workforce solutions. To know more about US Tech Solutions, please visit our website www.ustechsolutions.com
+
+We are constantly on the lookout for professionals to fulfill the staffing needs of our clients, and we currently have a job opening that may interest you. Below is a summary of the position. If you are interested in the opportunity listed below, please forward your updated resume along with current contact information, or perhaps you can recommend someone who would be interested in this position.
+
+Job Title: Geospatial Big Data and Cloud Ops Engineer
+Duration: 12+ Months 
+Location: Creve Coeur, MO
+
+Job Description: 
+The Geospatial Big Data and Cloud Ops Engineer will be involved in the design of big data solutions that leverage open source and cloud-based solutions within the Location360 enterprise initiative and will work with multiple teams across the organization (i.e. cloud analytics, data architects, business groups). The big data & cloud ops engineer will participate in the building of large-scale data processing systems, is an expert in data warehousing solutions and should be able to work with the latest (NoSQL) database technologies across AWS and Google cloud (or similar).
+
+A big data engineer should embrace the challenge of dealing with petabyte or even exabytes of data daily. A big data engineer understands how to apply technologies to solve big data problems and to develop innovative big data solutions. The big data engineer generally works on implementing complex big data projects with a focus on collecting, parsing, managing, analyzing and visualizing large sets of data to turn information into insights using multiple platforms. The big data engineer should be able to develop prototypes and proof of concepts for the selected solutions. This role will drive the engineering and building of geospatial data assets to support Client’s  Field Platform and R&D product pipeline.
+
+Key responsibilities include:
+•	You will work with other Location360 SREs and Software Engineers to “automate all things” for our hybrid cloud platform.
+•	Build tooling to improve CICD patterns for multiple development teams that are consistent with security and DevOps best practices
+•	Coordinate and assist teams in building competencies with infrastructure using object-oriented programming and configuration management domain specific language
+•	Create Terraform artifacts to automate the deployment and management of Cloud Infrastructure
+•	Create Kubernetes related artifacts based on Customize
+•	Continuously improve the observability of the Location360 tech stack by integrating logging, testing, metrics, tracing, dashboards, and alerts with CD pipelines
+
+What you’ll need to be successful:
+•	Experience working with large geospatial data sets applying GDAL and similar spatial libraries
+•	Ability to quickly learn technologies such as Terraform, Packer, FastAPI, Kubernetes, Nginx, Elasticsearch, PostgreSQL, AWS, GCP, and Grafana
+•	2-3 years of experience
+•	Basic understanding of OAuth 2.0 and Open ID Connect
+•	Software engineering experience with programming languages like Python or Go Lang
+•	Experience with python3, java, PostgreSQL, erlang, redshift, JavaScript
+•	Experience building CI/CD pipelines
+•	Developer mindset
+
+Bonus Points:
+•	Experience with creating Kubernetes operators using Kubebuilder or Operator SDK
+•	Experience with Argo CD / Flux / Argo Workflows
+•	Experience implementing a GitOps workflow
+•	Experience with object-oriented design, coding and testing patterns as well as experience in engineering (commercial or open source) software platforms and large-scale data infrastructures should be present.
+•	Experience creating cloud computing solutions and web applications leveraging public and private API’s
+
+Thanks & Regards
+Chenna Keshav
+ 
+Sr. Technical Recruiter
+10 Exchange Place, Suite 1820,
+Jersey City, NJ - 07302
+Tel (direct):  520-389-6989
+Tel (desk): 201-524-9600 ext 7128
+Fax:  (201) 524 9601
+E-mail : keshav.rayudu@ustechsolutionsinc.com
+URL: www.ustechsolutionsinc.com
+ 
+New Jersey l New York l California l Massachusetts l North Carolina l Georgia l District of Columbia
+Minnesota l Missouri l Texas l Arizona l Washington l Michigan l Pennsylvania l Colorado l Illinois
+International Locations: UK l Canada I India I Singapore
+
+***** DISCLAIMER: The information contained in this email or its attachments is confidential and may be legally privileged. It is intended solely for the addressee and access to this email or attachments by anyone else is unauthorized. Any views or opinions presented are solely those of the author and do not necessarily represent those of US Tech Solutions. If you are not the intended recipient, any disclosure, copying, distribution or any action taken or omitted to be taken in reliance on it, is prohibited and may be unlawful. If you have received this email in error, please notify the sender immediately by reply or telephone and ensure all copies are deleted from your system. US Tech Solutions delivers global contingent workforce solutions and detailed privacy policy of US Tech Solutions can be found on the website at www.ustechsolutionsinc.com ***** 

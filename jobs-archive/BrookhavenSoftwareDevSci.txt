@@ -1,0 +1,36 @@
+Position Description
+
+Essential Duties and Responsibilities:
+
+    Experience with High-Performance Computing --- principles, practice, programming and performance analysis
+    Strong Software Engineering Skills 
+    Experience with Scientific Workflows and Resource Management
+    Help develop application and HPC middleware software frameworks. 
+    Contribute to interdisciplinary and community software development team.
+    Promote the research results through scholarly publications and presentations at leading conferences
+    Lead or participate in the development of related research proposals. 
+    Promote collaborative research with interdisciplinary research team
+    Develop frameworks and libraries for high-Performance computing and Machine
+    Learning applications. Integrate frameworks and libraries with scientific
+    applications on DOE Leadership Facilities.
+
+Position Requirements
+
+Required Knowledge, Skills, and Abilities:
+
+    PhD in Computer Science/Engineering, Statistics, Applied Math or related discipline
+    Experience in successful and modern software design and development and lifestyle methods. 
+    Python and C programming experience     
+    Experience working in multidisciplinary scientific collaboration
+    Track record of producing high quality software on schedule
+
+Preferred Knowledge, Skills, and Abilities:
+
+    Appreciation for a range of scientific domains: high-energy physics, bimolecular, climate sciences, etc.
+    Experience working in inter-disciplinary teams
+    A degree in CS/CE in high-performance computing
+    Experience in system software design and implementation of scalable systems
+
+OTHER INFORMATION:
+
+    Moderate domestic and foreign travel

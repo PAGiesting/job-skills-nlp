@@ -1,0 +1,87 @@
+
+
+
+	Good Afternoon!
+
+Robert Half Technology is looking for an experienced Data Scientist for an exciting position with one of our top clients in Greenville, SC! 
+
+If you meet the requirements for this position, please send me a copy of your most up-to-date resume and I’ll provide more details!
+
+We are also handing out referral bonuses up to $500 based on seniority if your referral is successfully placed!
+
+Role Overview
+
+This Data Scientist will support product development teams by guiding proper data practices to build proprietary data sets, and empowering clients to find value in data. 
+
+The Data Scientist will also be responsible for data architecture that defines data models for new systems, selecting the best data storage solution for a given data set and usage pattern, collecting and managing test data, and creating normalized views of meaningful systems from disparate data sources. He/she will also have a key role to play in creating and operationalizing machine learning based solutions. 
+
+We are seeking a candidate with strong experience using a variety of data storage, collection, mining, and analysis methods. You must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes. 
+
+Responsibilities
+
+•	Work with engineering teams to design, build and run innovative automation solutions
+•	Conduct independent research to gain domain specific knowledge and develop custom data models and algorithms as well as valuable testing fixtures to support the larger engineering team
+•	Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies
+•	Assess the effectiveness and accuracy of new data sources and data gathering techniques
+•	Coordinate with different functional teams to implement models and monitor outcomes
+•	Develop processes and tools to monitor and analyze model performance and data accuracy
+
+Role Qualifications
+
+•	Strong problem-solving skills with an emphasis on product development
+•	Experience using statistical computer languages (R, Python, SQL, USQL, etc.) to manipulate data and draw insights from large data sets
+•	Experience working with and creating data architectures
+•	Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+•	Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+•	Excellent written and verbal communication skills for coordinating across teams
+•	A drive to learn and master new technologies and techniques
+•	We’re looking for someone with 4 -7 years of experience manipulating data sets and building statistical models, and is familiar with the following software/tools: 
+o	Coding knowledge and experience with several languages: Python is key
+o	Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.
+o	Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+o	Cloud architectures including AWS and Azure
+o	Asynchronous computing models (Kafka, RabbitMQ, etc.)
+o	Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+o	Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
+o	Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+o	Experience visualizing/presenting data for stakeholders using: Grafana, Periscope, Tableau, Power BI, Business Objects, D3, ggplot, etc.
+ 
+Relevant Technologies
+
+•	Azure Data Lake services
+•	Amazon Data Lake services
+•	Open source reporting frameworks
+•	SQL
+•	DDL
+•	Postgres
+•	Oracle
+•	Microsoft SQL Server
+•	MySql
+•	MariaDB
+•	JSON Schema
+•	Mongo
+•	Couch / Cloudant
+•	Elastic
+•	Redis
+•	DynamoDB
+•	Bigtable
+•	Cassandra
+•	Others
+
+Kind regards,
+
+Luke Osbrink| Lead Technical Recruiter  
+
+Robert Half Technology
+Tel:  (864) 232-7442
+Fax: (864) 232-1751 
+E: Luke.Osbrink@rht.com 
+LinkedIn: Luke Osbrink LinkedIn Profile
+ 
+75 Beattie Place | Suite 930 | Greenville | SC 29601
+
+Robert Half has once again been named to FORTUNE’s “World’s Most Admired Companies®” list, and remains the top-ranked staffing firm. (February 2020)
+	
+	 
+
+

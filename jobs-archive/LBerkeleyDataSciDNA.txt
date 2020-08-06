@@ -1,0 +1,74 @@
+You will work at the Berkeley Lab’s Joint Genome Institute (JGI) division and, under general supervision, perform a thorough quality analysis of DNA sequence data from various sequencing instruments. You will develop software, algorithms and automated processes (pipelines) to filter, integrate and evaluate large genomic datasets from multiple sources including genome assembly. You will also provide a technical and analytical interpretation of data to collaborators. 
+
+ 
+
+What You Will Do:
+
+    Learn, apply and interpret metrics for assessing sequencer performance.
+
+    Apply existing and define new metrics for evaluating sequencing pipeline performance (library quality, sequencing reads clean-up, analysis efficiency).
+
+    Proficiently utilize genome assembly and genome analysis software.
+
+    Provide high-quality data to collaborators.
+
+    Provide clear and concise professional reports and presentations.
+
+ 
+
+What Is Required:
+
+    B.S. degree in Physics, Statistics, Bioinformatics, Computer Science or a related field and at least 2 years of experience in bioinformatics; or an advanced degree without experience; or equivalent work experience.
+
+    Proficiency in programming languages including Python, R/Matlab, C/C++, Java or others in a Unix environment.
+
+    Knowledge of DNA sequencing.
+
+    Experience with the collection, recording, and analysis of experimental data.
+
+    Experience processing large volumes of data.
+
+    Experience with distributed computing.
+
+    Demonstrated analytical skills sufficient to troubleshoot complex systems and data analysis problems and make recommendations.
+
+    Strong organizational and record-keeping skills.
+
+    Effective oral and written communication and interpersonal skills.
+
+    Ability to work independently and as a team member in a diverse team environment.
+
+    Ability to handle multiple tasks in parallel while working on a large number of projects.
+
+    Ability to follow laboratory safety guidelines.
+
+
+Additional Desired Qualifications:
+
+    Experience with standard bioinformatics methods and tools, including sequencing databases, aligners, assemblers, and genomic viewers.
+
+    Experience with database structure and management.
+
+    Experience applying machine learning, pattern recognition, or modeling to scientific problems.
+
+    Experience with Jupiter Notebooks.
+
+    Experience in a multi-disciplinary scientific or production environment.
+
+ 
+
+The posting shall remain open until the position is filled.
+
+ 
+
+Notes: 
+
+    This is a full time, 1 year, term appointment with the possibility of extension or conversion to Career appointment based upon satisfactory job performance, continuing availability of funds and ongoing operational needs.
+
+    Exempt (monthly paid) from overtime pay.
+
+    The salary is commensurate with experience.
+
+    This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment.
+
+    Work will be primarily performed at Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA.

@@ -1,0 +1,154 @@
+Duties
+Summary
+About the Position: This position serves as a Operations Research Analyst (Data Scientist) in Army Futures Command (AFC), Data and Decision Sciences Directorate, located in Austin, Texas. AFC exists to modernize the way the Army does business by creating a space of endless possibilities to explore, develop, and test new methods, organizations, and technologies. Visit us on www.armyfuturescommand.com and join the team leading the Army into the future!
+
+Learn more about this agency
+Responsibilities
+At the full performance level you will be responsible for:
+Ensuring compatibility of development within U.S. Army Futures Command Data Analytics Platform (DAP) architecture.
+Serving as a staff advisor with direct responsibility of performance within the Data and Decision Sciences Directorate devoted to producing agile and dynamic analytics that enable decision-making through the Army's modernization enterprise.
+Developing command-driven analytics for U.S. Army Futures Command Data Analytics Platform (DAP) based on end-user feedback that provides insightful knowledge into answering questions encompassing the Army's modernization enterprise.
+Developing initial prototype analytics that employ statistical methodologies to fused data sources.
+Directing and conducting analysis of research results and data using advanced statistical techniques.
+Collaborating or write academic articles and technical reports describing outcomes of research studies.
+Engaging with others to conduct necessary stakeholder analysis to ensure analytics projects support end-user requirements.
+Travel Required
+25% or less - Temporary Duty Travel 25% of the time
+
+Supervisory status
+No
+
+Promotion Potential
+13
+
+Job family (Series)
+1515 Operations Research
+Requirements
+ Help
+Requirements
+Conditions of Employment
+Appointment may be subject to a suitability or fitness determination, as determined by a completed background investigation.
+This position requires a Secret clearance
+This position requires 25% temporary duty travel.
+Trial Period may be required.
+Term Appointment not to exceed 3 years ***SEE ADDTIOANAL INFORMATION***
+Qualifications
+This is an open continuous announcement.
+The first cut-off date is 04/30/2020. After this date additional referral lists will be created every 30 days or as vacancies are available.
+Final application disposition will be completed once all positions have been filled or the announcement reaches the end of the open period stated in the announcement.
+
+Who May Apply: US Citizens
+
+In order to qualify, you must meet the education and/or requirements described below. Experience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religious; spiritual; community; student; social). You will receive credit for all qualifying experience, including volunteer experience. Your resume must clearly describe your relevant experience; if qualifying based on education, your transcripts will be required as part of your application. Additional information about transcripts is in this document.
+
+Basic Requirement for Operations Research Analyst (Data Scientist):
+
+Degree: Bachelor's degree (or higher degree) in operations research; or a degree with at least 24 semester hours in a combination of operations research, mathematics, probability, statistics, mathematical logic, science, or subject-matter courses requiring substantial competence in college-level mathematics or statistics. At least 3 of the 24 semester hours must have been in calculus.
+
+In addition to meeting the basic requirement above, to qualify for this position you must also meet the qualification requirements listed below:
+
+GS-9
+Specialized Experience: One year of specialized experience which includes applying basic mathematical and statistics to perform routine, scientific or technical tasks or projects involving data collection. This definition of specialized experience is typical of work performed at the second lower grade/level position in the federal service (GS-07).
+
+OR
+
+Education: Master's or equivalent graduate degree or 2 full years of progressively higher level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as: computer science, operations research, operations management, mathematics, physics, or engineering.
+
+OR
+
+Combination of Education and Experience: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the first year (total graduate semester hours minus 18) by 18. Add the two percentages.
+
+GS-11
+Specialized Experience: One year of specialized experience which includes applying and adapting analytical, mathematical or statistical techniques to resolve problems or generate ideas for new programs, policy, or approaches to address. This definition of specialized experience is typical of work performed at the second lower grade/level position in the federal service (GS-09).
+
+OR
+
+Education: Ph.D. or equivalent doctoral degree or 3 full years of progressively higher level graduate education leading to such a degree in a field which demonstrates the knowledge, skills, and abilities necessary to do the work of the position, such as: computer science, operations research, operations management, mathematics, physics, or engineering.
+
+OR
+
+Combination of Education and Experience: A combination of education and experience may be used to qualify for this position as long as the computed percentage of the requirements is at least 100%. To compute the percentage of the requirements, divide your total months of experience by 12. Then divide the total number of completed graduate semester hours (or equivalent) beyond the second year (total graduate semester hours minus 36) by 18. Add the two percentages.
+
+GS-12
+Specialized Experience: One year of specialized experience which includes experience interpreting policy and regulation to provide advisory; develop changes to plans and/or data collection methodology and provide recommendations for improvements to meet program objectives. This definition of specialized experience is typical of work performed at the next lower grade/level position in the federal service (GS-11).
+
+Some federal jobs allow you to substitute your education for the required experience in order to qualify. For this job, at the GS-12 grade level, you must meet the qualification requirement using experience alone--no substitution of education for experience is permitted.
+
+GS-13
+Specialized Experience: One year of specialized experience which includes identifying, developing, and integrating information through various data collection/analysis procedures or technologies; and performing programming using data science software with a focus on open-source languages (e.g. R, Python, Scala, Julia). This definition of specialized experience is typical of work performed at the next lower grade/level position in the federal service (GS-12).
+
+Some federal jobs allow you to substitute your education for the required experience in order to qualify. For this job, at the GS-13 grade level, you must meet the qualification requirement using experience alone--no substitution of education for experience is permitted.
+
+You will be evaluated on the basis of your level of competency in the following areas:
+Problem Solving
+Research and Data Analysis
+Technical Competence
+Written Communication
+Education
+FOREIGN EDUCATION: If you are using education completed in foreign colleges or universities to meet the qualification requirements, you must show the education credentials have been evaluated by a private organization that specializes in interpretation of foreign education programs and such education has been deemed equivalent to that gained in an accredited U.S. education program; or full credit has been given for the courses at a U.S. accredited college or university. For further information, visit: http://www.ed.gov/about/offices/list/ous/international/usnei/us/edlite-visitus-forrecog.html
+
+Additional information
+Male applicants born after December 31, 1959, must complete a Pre-Employment Certification Statement for Selective Service Registration.
+You will be required to provide proof of U.S. Citizenship.
+Two year trial/probationary period may be required.
+Direct Deposit of Pay is required.
+Selection is subject to restrictions resulting from Department of Defense referral system for displaced employees.
+If you have retired from federal service and you are interested in employment as a reemployed annuitant, see the information in the Reemployed Annuitant information sheet.
+This is a Career Program (CP) 36 - Analysis, Modeling and Simulation position.
+You may claim military spouse preference.
+If a MSP applicant is determined best qualified and selected, placement must be at the full performance level for priority consideration.
+Multiple positions may be filled from this announcement.
+Salary includes applicable locality pay or Local Market Supplement.
+Interagency Career Transition Assistance Program (ICTAP). If you are a Federal employee in the competitive service and your agency has notified you in writing that you are a displaced employee eligible for ICTAP consideration, you may receive selection priority for this position. To receive selection priority, you must: (1) meet ICTAP eligibility criteria (2) be rated well-qualified for the position and; (3) submit the appropriate documentation to support your ICTAP eligibility. To be considered well-qualified and receive selection priority applicants must satisfy all qualification requirements for the position and receive a score of 90 or above. Additional information about the program is on OPM's Career Transition Resources website.
+When you perform a Civilian Permanent Change of Station (PCS) with the government, the Internal Revenue Service (IRS) considers the majority of your entitlements to be taxable. Visit https://www.dfas.mil/civilianemployees/civrelo/Civilian-Moving-Expenses-Tax-Deduction.htm for more information.
+If you are unable to apply online or need to fax a document you do not have in electronic form, view the following link for information regarding an Alternate Application.
+Permanent Change of Station (PCS) allowances may be authorized, subject to the provisions of the Joint Travel Regulations and an agency determination that a PCS move is in the Government Interest.
+The following special programs/incentives may be offered if it is appropriate to the position being filled and in the best interest of the government:
+Student Loan Repayment
+Advanced In-hire (offered to new Federal employees only
+Advanced Leave Accrual (offered to new Federal employees only
+Relocation/Recruitment Incentives.
+This position is a TERM position. It is time-limited and may be extended up to a maximum of eight years. This position may be converted to a permanent career or career-conditional appointment without further competition as long as all requirements are met. To be eligible for conversion, employee must complete at least two years of current continuous service under a term appointment in the competitive service AND employee must have a current performance rating under such term appointment of at least fully successful or equivalent.
+Read more
+How You Will Be Evaluated
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Once the announcement has closed, a review of your application package (resume, supporting documents, and responses to the questionnaire) will be used to determine whether you meet the qualification requirements listed on this announcement. If you are minimally qualified, your résumé and supporting documentation will be compared against your responses to the assessment questionnaire to determine your level of experience. If, after reviewing your résumé and/or supporting documentation, a determination is made that you have inflated your qualifications and/or experience, you may lose consideration for this position. Please follow all instructions carefully when applying, errors or omissions may affect your eligibility.
+
+You should list any relevant performance appraisals and incentive awards in your resume as that information may be taken into consideration during the selection process. If selected, you may be required to provide supporting documentation.
+
+Basis for Rating: Qualified candidates will be assigned to one of three quality categories: Best Qualified, Highly Qualified and Qualified. Veteran preference eligibles are listed ahead of non-preference eligibles within each quality category.
+
+Best Qualified. Candidates in this category possess exceptional skills and experience to exceed well above the minimum requirements for the announced position.
+Highly Qualified. Candidates in this category possess good skills and experience above the minimum requirements for the announced position.
+Qualified. Candidates in this category meet the minimum experience requirements for the announced position.
+Read more
+Background checks and security clearance
+Security clearance
+Secret
+
+Drug test required
+No
+
+Position sensitivity and risk
+Noncritical-Sensitive (NCS)/Moderate Risk
+
+Trust determination process
+Required Documents
+ Help
+Required Documents
+The documents you are required to submit vary based on whether or not you are eligible for preference in federal employment. A complete description of preference categories and the associated required documents is in the Applicant Checklist (External).
+
+As described above, your complete application includes your resume, your responses to the online questionnaire, and documents which prove your eligibility to apply. If you fail to provide these documents, you will be marked as having an incomplete application package and you will not be considered any further.
+
+1. Your resume:
+
+Your resume may be submitted in any format and must support the specialized experience described in this announcement.
+If your resume includes a photograph or other inappropriate material or content, it will not be used to make eligibility and qualification determinations and you may not be considered for this vacancy.
+For qualifications determinations your resume must contain hours worked per week and the dates of employment (i.e., HRS per week and month/year to month/year or month/year to present). If your resume does not contain this information, your application may be marked as incomplete and you may not receive consideration for this position.
+For additional information see: What to include in your resume.
+2. Other supporting documents:
+Cover Letter, optional
+Most recent Performance Appraisal, if applicable
+This position has an individual occupational requirement and/or allows for substitution of education for experience. If you meet this requirement based on education you MUST submit a copy of your transcript with your application package or you will be rated ineligible. See: Transcripts and Licenses
+NOTE: Documents submitted as part of the application package, to include supplemental documents, may be shared beyond the Human Resources Office. Some supplemental documents such as military orders and marriage certificates may contain personal information for someone other than you. You may sanitize these documents to remove another person's personal information before you submit your application. You may be asked to provide an un-sanitized version of the documents if you are selected to confirm your eligibility.

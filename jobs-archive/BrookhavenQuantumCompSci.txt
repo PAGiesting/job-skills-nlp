@@ -1,0 +1,29 @@
+Position Description
+
+Computing and Quantum Information Science.  The successful candidate is expected to work closely with quantum computing researchers at BNL and in the larger community on exciting scientific projects of interest to DOE and other Federal Agencies. Areas of immediate interest include: development of quantum qubit technologies, superconductive computing, novel materials for quantum computing, general purpose software tools that can enhance the usability of NISQ-era quantum computers for scientific domains relevant to DOE’s missions, and for other areas of applicability of quantum computing.  Appointment level will be commensurate with experience and qualifications.
+
+Essential Duties and Responsibilities:
+
+    Design and carry out original research in quantum technologies for qubits utilizing superconductive circuits, and silicon devices
+    Contribute to HW-SW co-design for efficient enablement of quantum computing
+    Collaborate with scientists within and outside of BNL
+    Bring together and interact closely with world-leading scientists in quantum computing across governments, industry, and academia to understand the latest state-of-the-art research and to help identify future research gaps and needs
+    Develop research ideas into actionable research strategies and programs
+    Present research progress and outcome at internal meetings, external conferences and workshops
+    Publish research findings in peer-reviewed journals or conference proceeding
+
+Position Requirements
+
+Required Knowledge, Skills, and Abilities:
+
+    PhD in Physics, Applied Mathematics, Computer Science or related fields
+    Demonstrated knowledge of Quantum Computing and/or Quantum Information Science
+    Effective interpersonal and written communication skills
+    The ability to work in a collaborative environment with researchers from different scientific disciplines
+    Ability to obtain and maintain a security clearance.
+
+Preferred Knowledge, Skills, and Abilities:
+
+    Experience with using existing quantum computing platforms and/or simulators such as IBM Q, Rigetti, IonQ, etc.
+    Experience with quantum device physics and fabrication technologies
+    Experience with qubit control and error mitigation

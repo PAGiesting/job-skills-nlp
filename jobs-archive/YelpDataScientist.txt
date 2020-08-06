@@ -1,0 +1,43 @@
+Yelp logo
+Data Scientist
+San Francisco, CA /
+Engineering and Product – Data Science & Analytics /
+Full Time
+At Yelp, it’s our mission to connect people with great local businesses. Yelp’s unique dataset contains billions of interactions between users and local business around the globe, from a user reviewing a neighborhood coffee shop to requesting a repair quote with a photo of a leaky faucet. Data Scientists at Yelp work to make sense of these interactions to deliver impactful analyses and products to our users, business partners and the general public.
+
+The Data Science team performs analyses, builds models, and designs experiments that directly impact Yelp’s business and users. Our centralized team is the most wide-ranging consumer of data at Yelp, adept at tasks from modeling content growth and user behavior to sharing insights about the health of local economies. With varied backgrounds and expertise, we strive for learning and growth in a collaborative environment.
+We Are Looking For:
+
+        BA/BS degree and 3+ years of experience as a data scientist, or MS/PhD and 2+ years of industry experience in a quantitative role.
+        Fluency with SQL and Python or R for data analysis.
+        Solid understanding of statistical inference, experimental design and analysis.
+        Enthusiasm for clean code and sharing reproducible results.
+        Communication skills to work with partners on engineering, product and business teams.
+        An eye for great data visualization with Matplotlib, Plotly, ggplot, or Tableau.
+        If you don't have 2+ years of industry experience in a quantitative role, please take a look at our College Data Scientist roles instead!
+
+What You Will Do:
+
+        Define key metrics to track Yelp’s performance and inform product decisions.
+        Assess and frame questions from partners into actionable deliverables.
+        Design, execute, and analyze complex experiments impacting millions of users.
+        Devise and evaluate models for diverse business needs, such as identifying growth opportunities, personalizing user experience, and matching consumers to businesses.
+        Own analyses start-to-finish and communicate key insights to stakeholders.
+        Share your technical skills to develop and maintain high-quality, reusable analysis tools.
+
+
+
+At Yelp, we believe that diversity is an expression of all the unique characteristics that make us human: race, age, sexual orientation, gender identity, religion, disability, and education — and those are just a few. We recognize that diverse backgrounds and perspectives strengthen our teams and our product. The foundation of our diversity efforts are closely tied to our core values, which include “Playing Well With Others” and “Authenticity.”
+
+We’re proud to be an equal opportunity employer and consider qualified applicants without regard to race, color, religion, sex, national origin, ancestry, age, genetic information, sexual orientation, gender identity, marital or family status, veteran status, medical condition or disability.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+We are committed to providing reasonable accommodations for individuals with disabilities in our job application process. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-recruiting@yelp.com or 415-969-8488.
+
+CCPA Privacy Notice
+
+Note: Yelp does not accept agency resumes. Please do not forward resumes to any recruiting alias or employee. Yelp is not responsible for any fees related to unsolicited resumes.
+
+Yelp Home Page
+Jobs powered by Lever logo

@@ -1,0 +1,131 @@
+
+
+Discover your future at Berkeley Lab!
+
+Berkeley Lab’s Molecular Biophysics and Integrated Bioimaging Division has an opening for a Research Scientist. In this role the successful candidate will develop computational methods in X-ray crystallography as applied to structural biology. The NIH-funded Diffraction Integration for Advanced Light Sources (DIALS) / cctbx.xfel project aims to utilize XFEL crystallographic diffraction and spectroscopy for increasingly complex studies on metalloenzymes and other macromolecular complexes.  Concurrently, the DOE/ ASCR funding through the Exascale Computing Project seeks to support high data rate analysis for XFEL experiments, accounting for advances in light sources and detectors.
+
+What You Will Do:
+
+Research
+
+    Implement algorithms within the CCTBX framework for primary data reduction of synchrotron and XFEL diffraction.
+
+    Implement controls to demonstrate that the computation produces the expected result.
+
+    Fundamentally analyze the experimental geometry and physics to develop new insights and algorithms, especially to improve the accuracy of weak data, enable the analysis of overlapping Bragg lattices, develop physical models of protein crystal disorder, crystal (non)isomorphism, and time-series data.
+
+    Directly implement algorithms supporting new science, including machine learning for data analysis, spectroscopic analysis through diffraction, diffuse scattering, pixel-based diffraction modeling, Laue diffraction, electron diffraction, small-unit cell crystals.
+
+    Publish one first-author peer-reviewed journal article annually and participate in conferences.
+
+Software Engineering
+
+    Develop automated tests to validate program features, and post a daily record of these tests in an easily-interpretable publicly available format. 
+
+    Collaborate with users to gain an understanding of how the software is deployed in practice.
+
+    Elicit and anticipate user needs & respond to user feedback.  
+
+    Develop educational and training materials including newsletter articles, web-based tutorials, training videos, and conference PowerPoint presentations.
+
+    Develop the nightly software compile, test, and build system.
+
+    Optimize new software to run at scale on leadership-class supercomputers (Summit, Perlmutter, Aurora, and Frontier), fully utilizing the available GPU acceleration using several modalities (CUDA, OpenMP, Sycl, HIP, Raja).   Compute and memory should be profiled and code refactored as needed.
+
+     Modularize the code so it can be deployed as an API in third-party systems.
+
+    Work within the framework of explicitly-defined milestones agreed on with the ECP.
+
+Interaction with Light-source and Other Facilities 
+
+    Support new experimental configurations including new detectors like the Dectris Eiger, and light sources, including both synchrotron and XFEL sources.
+
+    Work with beamline scientists worldwide to customize and validate software at different locations.
+
+    Take a team approach for integrating the new code into existing software systems, including various graphical displays and beamline systems.  
+
+    Act strategically in supporting systems that are specific to a particular facility.  Facilities with specific computing environments include LCLS, SACLA, NERSC, and Amazon Web Services.
+
+Additional Responsibilities as needed:
+
+    Act in an advisory or supervisory position in collaborative projects
+
+    Other activities intended to generate new resources including grant writing, writing white papers, publication of articles, public speaking, and resource-oriented committee work such as the NeXus International Advisory Committee.
+
+
+What is Required: 
+
+    Ph.D. or equivalent experience in Biophysics, Bioinformatics, Mathematics, Computer Science, Engineering, Physical Science or similar field with a minimum of 5 years of professional experience following Ph.D.
+
+    3 years of experience with scientific software development.
+
+    Publication record with significant involvement with computational crystallography.
+
+    Community involvement and recognition in the computational crystallography field evidenced by meetings, committees, or other leadership activities.
+
+    1-year experience with experimental macromolecular crystallography at an X-ray free-electron laser.
+
+    We are looking for a practicing crystallographer or someone with bioimaging experience.
+
+    Highly experienced with scientific computation in Python and C++ language (both strongly required).
+
+    Strong knowledge of Linux, MacOSX operating systems.
+
+    Proficient in open source collaborative software development (such as GitHub).
+
+    Specific understanding of image formats, graphical user interface APIs, and database APIs.
+
+    Must have demonstrated organizational capacity to simultaneously work on 5+ projects at once.
+
+    Ability to travel to offsite data collections at SLAC, EuXFEL (Hamburg), SACLA (Japan), SwissFEL (Switzerland), and PAL (S. Korea).
+
+    Ability to travel to multi-day conferences.
+
+Additional Desired Qualifications:
+
+    Proposal writing (for grants and/or experimental resources)
+
+    Proven excellence in signal processing, image processing, and multivariate statistics
+
+    TensorFlow, PyTorch, machine learning
+
+    GPU programming (CUDA, OpenCL)
+
+The posting shall remain open until theThe posting shall remain open until the position is filled, however for full consideration, please apply by close of business on July 23, 2020.
+
+
+Notes: 
+
+    This is a full-time career appointment.
+
+    M-F, exempt (monthly paid) from overtime pay.
+
+    Salary is commensurate with experience.
+
+    This position may be subject to a background check. Any convictions will be evaluated to determine if they directly relate to the responsibilities and requirements of the position. Having a conviction history will not automatically disqualify an applicant from being considered for employment.
+
+    Work will be primarily performed at: Lawrence Berkeley National Lab, 1 Cyclotron Road, Berkeley, CA.
+
+
+Learn about us!
+
+Molecular Biophysics and Integrated Bioimaging
+
+Mission: To generate a mechanistic and predictive understanding of biological processes, by developing and applying molecular- and meso-scale visualization and advanced spectroscopies, enabling the control, manipulation and generation of biological function.
+
+Vision: To generate fundamental knowledge that inspires a mechanistic understanding of biological processes, with the ultimate goal of manipulating, controlling, and creating biological functions in order to solve national challenges in energy, environment, health and biomanufacturing.
+
+Berkeley Lab
+
+Berkeley Lab (LBNL) addresses the world’s most urgent scientific challenges by advancing sustainable energy, protecting human health, creating new materials, and revealing the origin and fate of the universe. Founded in 1931, Berkeley Lab’s scientific expertise has been recognized with 13 Nobel prizes. The University of California manages Berkeley Lab for the U.S. Department of Energy’s Office of Science.
+
+Working at Berkeley Lab has many rewards including a competitive compensation program, excellent health and welfare programs, a retirement program that is second to none, and outstanding development opportunities.  To view information about the many rewards that are offered at Berkeley Lab- Click Here.
+
+Equal Employment Opportunity: Berkeley Lab is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, or protected veteran status. Berkeley Lab is in compliance with the Pay Transparency Nondiscrimination Provision under 41 CFR 60-1.4.  Click here to view the poster and supplement: "Equal Employment Opportunity is the Law.
+
+Lawrence Berkeley National Laboratory encourages applications from women, minorities, veterans, and other underrepresented groups presently considering scientific research careers.
+
+
+
+
+

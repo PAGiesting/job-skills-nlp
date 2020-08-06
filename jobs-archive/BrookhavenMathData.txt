@@ -1,0 +1,48 @@
+Position Description
+
+We have an opening to perform research in applied mathematics.  The successful candidate is expected to work closely with other applied mathematicians and researchers at BNL and in the larger community on exciting scientific projects of interest to DOE and other Federal Agencies. Areas of immediate interest include:
+
+    Numerical methods for dynamical systems
+    Inverse Problems
+    Streaming Data Analysis
+    Reduced-order modeling of dynamical systems
+    Bayesian inference
+    Uncertainty quantification
+    Optimal Control
+    Optimal Experimental Design
+    Mathematical foundations for machine learning
+    Monte Carlo and probabilistic methods.
+
+Essential Duties and Responsibilities
+
+    Develop, implement and execute fundamental and applied research in applied mathematics  
+    Develop scientific strategies to sustain the applied mathematics program at BNL       
+    Ensure that BNL’s applied mathematics programs are meeting client needs and that projects are completed successfully on time/budget 
+    Maintain compliance with Laboratory policies, standards, and procedures as documented in SBMS. Implement operational standards to meet the expectations of the Laboratory Agenda
+    Support recruiting initiatives in diversity, fellowships, and university relations. Promote educational outreach programs.  
+
+Position Requirements
+
+    PhD in Applied Mathematics, Mathematics, Physics, Electrical Engineering, Computer Science or related fields with strong record of accomplishment in applied mathematics as evidenced by publications in leading peer-reviewed journals.
+    At least five (5) years visible leadership experience in a recognized research organization within the DOE or with a mission related to that of the DOE.
+    Ability to define and implement research programs in applied mathematics at the national and international level.  
+    Proven track record in building leading research programs including strategy development, attracting leading researchers, building partnerships, gaining funding, successful delivery and gaining peer recognition.  
+    Experience in successfully communicating with key stakeholders, clients, program sponsors and internal staff.  
+    Regarded as a leading researcher in a field of applied mathematics related to computational science incl. high performance computing  
+    Is currently a principal investigator of a substantial portfolio of research projects related to applied mathematics related to computational science. 
+    Record in applied mathematics research evidenced by peer-reviewed publications, presentations, and professional recognition.  
+    Experience in working as part of a multidisciplinary team.  
+    Record of success at securing external funding to support one's work through competitive efforts from federal funding sources.
+    Ability to lead and guide inter-disciplinary teams of researchers.  
+    Effective interpersonal and written communication skills.  
+    Record of experience mentoring students and postdocs.
+    The ability to work in a collaborative environment with researchers from different scientific disciplines.  
+
+Preferred Knowledge, Skills, and Abilities:
+
+    Familiarity with the Office of Science ASCR Program
+    Experience with High Performance Computing
+
+Additional Information
+
+ Must submit a statement of research interests
