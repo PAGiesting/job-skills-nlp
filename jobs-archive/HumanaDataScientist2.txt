@@ -1,0 +1,62 @@
+
+Description
+
+The Data Scientist 2 uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions. The Data Scientist 2 work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.
+
+Responsibilities
+
+The Data Scientist 2 will be responsible for leveraging advanced analytics and machine learning to advance strategy and initiatives at HPS and Humana Pharmacy.
+
+Manage and manipulate large data sets to support analytics projects
+Work with business partners to identify areas of opportunity and deliver business insights
+Present findings to business/technical partners; be able to present technical findings clearly to non-technical audiences
+Identify and measure project outcomes
+Use supervised and unsupervised machine learning to develop models that help solve business problems
+Work with a diverse array business partners and assist in requirements definition, project scoping, timeline management, and results documentation to ensure professional relationship management
+
+Required Qualifications
+
+    Master's Degree in Statistics, Computer Science, Mathematics, Quantitative Social Sciences or other quantitative discipline
+    Experience in Python, R, SAS, SQL or other statistical programming language
+    Experience in manipulating and working with structured and/or unstructured data sets for analysis and reporting
+    Experience in creating reports, projections, models, and presentations to support business
+    Experience in using mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex data into advanced analytic solutions
+    Possesses an understanding of department, segment, and organizational strategy and operating objectives, including their linkages to related areas
+    Capable of making decisions regarding own work methods, occasionally in ambiguous situations
+
+Must be passionate about contributing to an organization focused on continuously improving consumer experiences
+
+Preferred Qualifications
+
+    PhD in Statistics, Computer Science, Mathematics, Quantitative Social Sciences or other quantitative discipline
+    Experience with pharmacy and/or health care data
+    Experience with Azure cloud storage and analytics solutions
+    Experience with Databricks
+
+Scheduled Weekly Hours
+40
+Seniority Level
+
+Entry level
+Industry
+
+    Information Technology & Services Financial Services Hospital & Health Care 
+
+Employment Type
+
+Full-time
+Job Functions
+
+    Engineering Information Technology 
+
+Estimated salary
+
+For this job
+
+    Base salary
+
+    $80,900/yr
+    Range: $69K to $93K
+
+    Range: $69K – $93K
+

@@ -1,0 +1,102 @@
+
+Climate.Careers
+
+    Logout
+    My Account
+
+    Jobs
+    Organizations
+    Events
+    For Employers
+    About
+
+Back
+Agronomic Data & Visualization Analyst
+
+    Indigo
+    Memphis, TN
+
+Job Description
+
+Indigo is working to harness nature to sustainably feed the planet.  We have discovered a transformational opportunity to improve global crop yield and reduce the use of agricultural chemicals and fertilizers by utilizing the core microbiome inside plants to confer material yield and crop protection benefits across a variety of crops, geographies and stresses.  The challenge and opportunity for Indigo is to gain critical first mover advantages by scaling quickly and effectively (~$1B 2020 revenue.)
+
+The role of the Agronomic Data & Visualization Analyst will own data tracking and create data-driven insights from Indigo Research Partners - a grower led, on-farm trial network. This role will work closely with our field research teams and data science teams to provide visibility into our experimental pipeline and progress by building and maintaining intuitive and actionable dashboards. Additionally, this role will perform exploratory analyses to identify operational efficiencies and provide case studies of successful trials for our growers and commercial offer teams. The Agronomic Data & Visualization Analyst role will report to the Head of IRP - Crop Production and will work closely with the data science team in Field Experimentation.
+
+ 
+
+Responsibilities:
+
+    Understand current data flows for field experiments and define strategies for improvement
+        Understand the flow of data for field experiments: from on-site collection, through storage in Indigo’s data platform, to leveraging and extending existing tools from Indigo’s data science teams
+        Identify any gaps in the overall data infrastructure, and propose potential solutions
+        Understand the ways data from field experiments is currently visualized
+        Start to define hand-offs to engineering or other teams for standardized analysis and storage of results
+        Work with relevant data collection, engineering, and analyses teams to develop more efficient methods to visualize data
+        Create and operationalize fixes for data collection in areas where we are gapped
+    Become proficient using Looker and other supporting tools within the IRP-BI function (Snowflake, Git, Jira, QGIS, Precision Ag, SQL, etc.)
+    Develop a field data QC approach that:
+        Defines inclusion/exclusion criteria of spatial data from machine data sources, agronomic practice data collected in interviews, soil data, and remote sensing data and provides a clear definition of parameters for use of the data
+    Construct new dashboards and take ownership of current dashboards to provide views for our IRP Stakeholders
+    Synthesize data collected from multiple streams (e.g. machine instruments, on-field sensors, remote sensing, soil samples, in-person interviews, soil maps, and weather data), as well as management best-practices to perform exploratory analyses to optimize experiments and grower insights
+    Become the main IRP point of contact for Indigo Fields data collection software
+    Understand and embody our mission & core values
+        Excited by Indigo’s mission; believes that Indigo can fundamentally change the agriculture industry; can clearly articulate passion for our mission and values
+        Optimistic and innovative; solution-oriented; shows no signs of cynicism
+        Will be widely viewed as someone who personifies our core values, is committed to them, and leans on them when making decisions. Specifically:
+        Demonstrates a track record of high integrity - doing the right thing, owning mistakes, conducting oneself honestly
+        Values, communicates and interacts with others with high levels of transparency and respect
+        Collaborates well across functions; creates an inspiring and collegial work environment
+
+ 
+
+Competencies:
+
+    Able to embrace new paradigms for analyzing agronomic data
+    Able to maintain a clear vision of the grower’s needs and where their success is critical while demonstrating grower empathy
+    Demonstrated ability to assemble data from multiple sources (specifically, agronomic field data from a multi-region or large geographical areas spanning many environments) into dashboards capable of driving decisions to meet business or scientific objectives
+    Able to work with farm-scale trial design, data management, and spatial data analysis.
+    Thrives within ambiguity; capable of creating clarity through organization and prioritization
+    Excels at communicating data analysis at the interface of business and agronomy/data science via documentation (e.g. wiki, PowerPoint)
+    Extremely comfortable working with messy datasets from a variety of non-normalized sources
+    Highly organized and collaborative; able to influence without authority
+    Completes necessary tasks, even menial ones, with joy
+    Solution-oriented
+    Able to think critically
+    Strong analytical thinker with ability to decipher/determine highest priority, most impactful data outcomes
+    Passion for concise and thorough documentation
+    Ability to create and communicate findings from data-focused analyses with a variety of technical and non-technical stakeholders
+    Ability to perform detailed data exploration and validation from a variety of sources
+
+ 
+
+Qualifications:
+
+    3+ years experience data modeling, BI dashboard design, or analytics experience including experience translating functional requirements into easy-to-use, flexible reporting solutions and dashboards
+    Technical requirements:
+        Advanced SQL proficiency (any dialect)
+        Extensive experience with data modeling and warehouse architecture
+        Experience using Looker or other visualization tool (e.g. Spotfire, Tableau, Google Studio) to build reports and dashboards
+        Experience with Salesforce / Einstein Analytics, Python, R, Excel or javascript (D3.js)
+        Experience with qGIS, Ag Leader, or similar spatial data tools
+    Individual contributor with experience capable of performing independent work
+    Broad industry experience preferred (data science, tech, life sciences, etc.)
+    Experience working in a fast-paced, growth environment
+    Bachelor’s degree, required
+    Experience working with agricultural data with direct exposure to agriculture / agronomy preferred.
+    Ability and willingness to travel up to 15% of the time
+
+ 
+
+www.indigoag.com
+
+Indigo is committed to living our values, specifically “creating a work environment where everyone feels respected, connected, and has opportunities to learn and grow.” As part of living our values, we strive to create a diverse and inclusive work environment where everyone feels they can be themselves and has an equal opportunity of succeeding.
+Organization Type
+Company  
+Sectors
+Food & Agriculture
+Email me jobs like this
+About Indigo
+
+What if nature could be harnessed to help farmers sustainably feed the planet? Since 2014, Indigo has questioned agriculture's full value chain to improve grower profitability, environmental sustainability, and consumer health. The company’s scientific discoveries and digital innovations have amplified new value from soil to sale, benefiting more than 10,000 growers to date. Indigo is also the company behind The Terraton Initiative, a global effort to drawdown one trillion tons of atmospheric carbon dioxide by unlocking the potential of agricultural soils. In 2019, Indigo was ranked #1 on CNBC’s Disruptor 50 list. Headquartered in Boston, MA, Indigo has additional offices in Memphis, TN; Research Triangle Park, NC; Sydney, Buenos Aires, Argentina; Basel, Switzerland; and São Paulo, Brazil. 
+Company Profile
+Share this job:

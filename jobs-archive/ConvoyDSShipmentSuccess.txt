@@ -1,0 +1,41 @@
+Convoy logo
+Senior Data Scientist, Shipment Success
+Seattle, Washington /
+Data Science /
+Full-time
+
+Convoy is transforming the $800 billion trucking industry. Our mission is to transport the world with endless capacity and zero waste. The industry is huge and so is the opportunity to change the way freight moves.
+
+The next time you’re out driving and see an 18-wheeler on the road, that truck is empty 35% of the time. When big trucks drive empty, they throw unnecessary CO2 into the atmosphere. In fact, empty trucks generate more than 76 million metric tons of wasted carbon emissions every year. At Convoy, our digital freight network helps reduce those empty miles and cut carbon waste by nearly half.
+
+This is your opportunity to collaborate with an incredible group of people and help transform the freight industry. Join Convoy and help move the world forward!
+
+About You: 
+Are you excited about working unassisted and being responsible for your domain end-to-end? At Convoy, we are a highly aligned team that operates in a dynamic environment and pivots where needed to focus on what matters most. You will be responsible for defining core business reasoning in our data warehouse, developing and disseminating insights to steer product choices, conducting experiments, and building models.
+ 
+You will:
+
+        Play a critical role in generating insights and experiments that directly affect Convoy’s most critical cross-company goals
+        Embed fully into the business to develop a deep understanding from high-level strategy to day-to-day operations
+        Bring a data-minded perspective to help the team succeed
+
+We're looking for someone who has:
+
+        A degree in economics, statistics, business analytics, operations research, a natural science or equivalent quantitative subject
+        3-5 years of experience in Business Intelligence or Data Scientist - Analytics roles (candidates with substantially more experience are strongly encouraged to apply)
+        Experience with SQL and R/Python in dynamic business environments
+        The ability to break down high-level business problems into concrete thoughtful solutions
+        Excellent communication skills that can flow across a wide range of partners (product, engineering, sales, etc)
+
+Nice to haves:
+
+        M.S. in economics, statistics, business analytics, operations research, natural science or equivalent quantitative subject
+        ETL pipeline experience
+        Experience with Tableau or other similar data visualization tool
+
+Candidates must be eligible to work in the U.S. at our Seattle HQ.
+
+Convoy is an equal-opportunity employer and we welcome applicants from all backgrounds. If you’re a passionate team player who wants to have an outsized impact on a diverse and dynamic team, we’d love to hear from you!
+
+Convoy Home Page
+Jobs powered by Lever logo

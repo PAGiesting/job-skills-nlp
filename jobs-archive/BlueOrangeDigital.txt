@@ -1,0 +1,37 @@
+ This role is contract to hire.
+
+Blue Orange Digital is looking for a Machine Learning Engineer to join our awesome multi-disciplinary team. We build data analytics platforms for our clients that incorporate machine learning to solve business problems. Blue Orange Digital works across multiple industries, this role provides an exciting set of experiences across a wide range of domains.
+
+Your primary focus will be the architecting and developing systems that include data ingestion, data processing, algorithm development, and ML model development & deployment. Major technologies involved include AWS, Python 3, Spark, Pandas, Tensorflow. The ideal candidate for this position has a mixture of experience in Machine Learning model development, Cloud Engineering, and Data Engineering.
+
+Core Responsibilities & Skills
+
+    Architecting, building and maintaining modern, scalable data architectures on AWS
+    Solving problems using Machine Learning and delivering ML solutions all the way to production
+    Building resilient ETL pipelines using workflow orchestration tools such as Airflow, Prefect, Luigi
+    Data exploration, analysis, and reporting with an eye towards developing a narrative using Notebooks.
+    Demonstrable experience in one or more of the following specializations: NLP, pattern detection, anomaly detection, predictive modeling, and optimization
+
+Qualifications
+
+    BA/BS degree in Computer Science or a related technical field, or equivalent practical experience.
+    Advanced experience in Python with an excellent understanding of computer science fundamentals, data structures, and algorithms
+    Experience in Amazon AWS, DevOps and Automation
+    Experience with distributed machine learning using tools like Dask, Tensorflow, Kubeflow
+    Enjoys collaborating with other engineers on architecture and sharing designs with the team
+    Interacts with others using sound judgment, good humor, and consistent fairness in a fast-paced environment
+
+Seniority Level
+
+Entry level
+Industry
+
+    Information Technology & Services Computer Software Internet 
+
+Employment Type
+
+Full-time
+Job Functions
+
+    Engineering Information Technology 
+

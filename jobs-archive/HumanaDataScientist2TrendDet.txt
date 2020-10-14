@@ -1,0 +1,47 @@
+ Description
+
+The Data Scientist 2 uses mathematics, statistics, modeling, business analysis, and technology to transform high volumes of complex health care claims data into actionable solutions. The Data Scientist 2 work assignments are varied and frequently require interpretation and independent determination of the appropriate courses of action.
+
+Responsibilities
+
+Humana is seeking a Data Scientist 2 that will support the Trend Detection team. The role is analytic in nature with a focus on researching Medicare financial trends and reporting the outcomes. It requires an understanding of coding and medical claims to be successful and will be working with a wide range of departments.
+
+Key Responsibilities Include
+
+    Creating reports, projections, models, and presentations to support business strategy and tactics.
+    Understanding department, segment, and organizational strategy and operating objectives, including their linkages to related areas.
+    Developing relationships with other departments to collaborate on business needs and strategy
+    Makes decisions regarding own work, requires minimal direction, and receives guidance where needed. Follows established guidelines/procedures.
+    Self-motivated and organized to research multiple projects at once
+
+Required Qualifications
+
+    Bachelor’s Degree with 3-4 years of data science, statistical and/or analytical experience or:
+    Master’s Degree with 1-2 years of data science, statistical and/or analytical experience
+    Demonstrated experience coding in SQL, Python, R and/or SAS
+    Ability to use data to drive business outcomes and decisions
+    Capable of making decisions regarding own work methods, occasionally in ambiguous situations
+
+Preferred Qualifications
+
+    Advanced coding experience – SAS, Python, R, and/or SQL
+    Claims data experience
+    Research experience
+    Healthcare experience
+
+Scheduled Weekly Hours
+40
+Seniority Level
+
+Entry level
+Industry
+
+    Information Technology & Services Financial Services Hospital & Health Care 
+
+Employment Type
+
+Full-time
+Job Functions
+
+    Engineering Information Technology 
+

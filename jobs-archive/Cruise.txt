@@ -1,0 +1,98 @@
+
+Climate.Careers
+
+    Logout
+    My Account
+
+    Jobs
+    Organizations
+    Events
+    For Employers
+    About
+
+Back
+Senior Data Analyst
+
+    Cruise
+    San Francisco, CA
+
+Job Description
+
+We’re Cruise, the self-driving ride-hailing service.
+
+We are building the world’s most advanced self-driving vehicles to safely connect people to the places, things, and experiences they care about. We believe self-driving vehicles  will help save lives, reshape cities, give back time in transit, and restore freedom of movement for many.
+
+At Cruise, our engineers have opportunities to grow and develop while learning from leaders at the cutting-edge of their fields. With a culture of internal mobility, there's opportunity to thrive in a variety of disciplines. This is a place for dreamers and doers to succeed.
+
+If you are looking to solve one of today’s most complex engineering challenges, see the results of your work in hundreds of self-driving cars, and make a positive impact in the world starting in our cities, join us.
+ 
+About the role:
+
+We’re looking for a Senior Data Analyst to build data systems to help track and improve the efficiency of our AV operations. We are not only looking for someone who can masterfully manipulate data, but also work seamlessly with a wide variety of stakeholders involved in our AV operations. This role will report to the Manager of the Product Operations team within the Global Markets function.
+What You’ll Be Doing:
+
+    Design, build, launch, and maintain databases, dashboards, and reports to help improve AV operations
+    Utilize Looker, Google Cloud, and SQL to pull data and provide analytical insights to solve operational and business problems
+    Monitor databases for data integrity and quickly resolve issues using an agile approach
+    Set up tests and perform statistical analyses to determine the effectiveness of operational changes
+    Partner with the Operational Analytics team to prepare reports for leadership to effectively communicate trends, patterns, and predictions
+    Train cross functional stakeholders on how to leverage Cruise’s operational data to improve their workflows
+
+What You Must Have:
+
+    3+ years of experience analyzing, manipulating, and visualizing large datasets
+    Advanced proficiency in SQL
+    Experience using Looker, Tableau, or similar Business Intelligence applications
+    Ability to translate analyses into business recommendations
+    Excellent written and verbal communication skills
+    Bachelor’s degree in Information Systems, Statistics, Mathematics, or relevant field
+    General knowledge of statistics
+    Experience in automotive industry, operational environment, or similarly fast-paced technology environment
+    Strong knowledge of Microsoft and Google Suite
+
+BONUS POINTS
+
+    Proficiency in Python, C++, and/or other coding languages
+    Master’s degree in a related field
+    Advanced statistics knowledge
+    Advanced Excel or Google Sheets modeling skills
+
+PERKS
+
+    This position can also be based in our Phoenix or Seattle offices.
+
+Why Cruise?
+
+    Our benefits are here to support the whole you:
+        Competitive salary and benefits 
+        401(k) Cruise matching program 
+        Medical / dental / vision, AD+D and Life
+        Flexible vacation and company paid holidays
+        Healthy meals and snacks provided
+        Paid parental leave & family expansion stipend
+        Monthly wellness stipend
+        Commuter benefits
+    We’re Integrated
+        Through our partnerships with General Motors and Honda, we are the only self-driving company with fully integrated manufacturing at scale.
+    We’re Funded
+        GM, Honda, SoftBank, and T. Rowe Price have invested billions in Cruise. Their backing for our technology demonstrates their confidence in our progress, team, and vision and makes us one of the leading autonomous vehicle organizations in the industry. Our deep resources greatly accelerate our operating speed.
+    We’re Independent
+        We have our own governance, board of directors, equity, and investors. Our independence allows us to not just work on the bleeding-edge of technology, but also define it.
+    We're Vested
+        You won’t just own your work here, you’ll have the potential to own equity in Cruise, too. We are competing in a market that is projected to grow exponentially, which gives our company valuation room to grow. 
+
+ 
+
+Cruise LLC is an equal opportunity employer.  All applicants for employment will be considered without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, gender identity or expression, veteran status, genetics or any other legally protected basis.   Below, you have the opportunity to share your preferred gender pronouns, gender, ethnicity, and veteran status with Cruise to help us identify areas of improvement in our hiring and recruitment processes. Completion of these questions is entirely voluntary.  Any information you choose to provide will be kept confidential, and will not impact the hiring decision in any way.
+
+We also consider for employment qualified applicants regardless of criminal histories, consistent with applicable laws.  And, if you believe that you will need any type of accommodation, please let us know.
+
+Note to Recruitment Agencies: Cruise does not accept unsolicited agency resumes. Furthermore, Cruise does not pay placement fees for candidates submitted by any agency other than its approved partners.
+Organization Type
+Company  
+Email me jobs like this
+About Cruise
+
+Cruise is building the world's most advanced self-driving electric vehicles to safely connect people with the places, things, and experiences they care about. Cruise autonomous vehicles are on the road in San Francisco navigating some of the most challenging and unpredictable driving environments, because the best way to bring self-driving technology to the world is to expose it to the same unique and complex traffic scenarios human drivers face every day.
+Company Profile
+Share this job:

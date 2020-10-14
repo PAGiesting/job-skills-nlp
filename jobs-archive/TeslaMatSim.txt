@@ -1,0 +1,40 @@
+
+Simulation Engineer, Materials
+
+Job Category
+    Engineering & Information Technology
+Location
+    Fremont, California
+Req. ID
+    54269
+Job Type
+    Full-time
+
+Apply
+
+Tesla participates in the E-Verify Program
+
+    BUILD THE FUTURE 
+
+The Role:
+
+This position in the Manufacturing Innovations Team will focus on driving the design and engineering of R&D prototypes using scientific insights and state-of-the art simulation tools like finite element analysis. You will analyze new technology devices on a variety of aspects such as mechanical, thermal, optical behavior. You will provide actionable feedback and design guidelines to the team members and have a hands-on approach to manufacturing.  You will be able to implement from scratch simple numerical simulation tools when commercial solutions are not available, which happens when dealing with new technologies.
+
+This role involves collaboration with designers, engineering, manufacturing, and commercial teams and requires the ability to distill highly technical information and effectively communicate with other teams and management.
+
+Responsibilities:
+
+    Perform thermo-mechanical and optical simulations of new technology components such as innovative glass or polymer components, in order to guide the innovation process and influence the design at an R&D stage. Examples of components are windshields, glass windows, vision systems, exterior materials, acoustic materials.
+    Lead the prototyping and analysis of innovative R&D component and provide a scientific analysis of the performance, such as ability to manufacture, fracture resistance, optical clarity.
+    Interact with the design team and provide clear and easy to understand feedback about the design
+    Develop new knowledge in areas required by the investigation of new technologies, with an analysis rooted in fundamental physics and mathematics, use problem solving and critical thinking abilities
+    Propose innovative concepts that will benefit our products
+
+ 
+
+Requirements:
+
+    BS/MS Degree in Mechanical, Materials Engineering, Physics, Mathematics or related field
+    Deep understanding of physics (continuum mechanics, Maxwell equations, fluid dynamics) and mathematics (linear algebra, tensor calculus, partial differential equations, numerical analysis)
+    Coding skills with at least one programming language such as Python, C++,Java or similar
+    Experience with CAD software and finite element analysis is appreciated
