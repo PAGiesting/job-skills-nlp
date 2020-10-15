@@ -1,0 +1,85 @@
+
+Data Scientist
+Job Details
+Level
+Undisclosed
+Job Location
+LIC - Central DOHMH - Long Island City, NY
+Position Type
+Undisclosed
+Education Level
+Undisclosed
+Salary Range
+Undisclosed
+Travel Percentage
+Undisclosed
+Job Shift
+Undisclosed
+Job Category
+Undisclosed
+Data Scientist
+
+Temporary October 2020 – July 2021
+
+ 
+
+ 
+
+The Fund for Public Health in New York City, (FPHNYC) is a 501(c)3 non-profit organization that is dedicated to the advancement of the health and well-being of all New Yorkers.  To this end, in partnership with the New York City Department of Health and Mental Hygiene (DOHMH), FPHNYC incubates innovative public health initiatives implemented by DOHMH to advance community health throughout the city. It facilitates partnerships, often new and unconventional, between government and the private sector to develop, test, and launch new initiatives. These collaborations speed the execution of demonstration projects, effect expansion of successful pilot programs, and support rapid implementation to meet the public health needs of individuals, families, and communities across New York City.
+
+ 
+
+PROGRAM OVERVIEW (Epidemiology and Laboratory Capacity for Infectious Diseases Grant (ELC))
+
+The Bureau of Division Management & Systems Coordination (DMSC), part of the Division of Disease Control (DDC), is composed of the Informatics, Data and Outbreak Response teams which are responsible for the infectious disease surveillance systems, electronic laboratory reporting workflow and health information exchange. DMSC supports all other DDC bureaus with monitoring and analyzing trends in disease data, used for the recognition, prevention and control of infectious diseases.
+
+ 
+
+POSITION OVERVIEW
+
+We are seeking to fill positions in the Division of Disease Control that will provide key support for DOHMH’s work of tracking and investigating COVID-19 in New York City.  It is expected that each position will work up to 35 hours per week.
+
+ 
+
+RESPONSIBILITIES
+
+    Design, implement, test, and deploy probabilistic models that match patient, facility, and provider data in the data lake
+    Create and present reproducible data visualizations in R or Python
+    Design, implement, test, and deploy inbound data pipelines using the Fast Healthcare Interoperability Resources (FHIR) specification from Health Level 7 (HL7)
+    Build a cloud-based data lake using electronic lab reports, electronic health record, and web application disease report information
+    Perform data mining, cleaning, and quality assurance
+
+Qualifications
+
+•    3+ years of hands-on experience with Python version 3.x
+•    5+ years of hands-on experience with mathematical, statistical, machine learning, or artificial intelligence models used for probabilistic classification in R, Python, or a combination of the two
+•    2+ years of hands-on experience performing data science tasks using cloud-based technologies
+•    Strong organization and time management skills
+•    Good written and verbal communication skills
+•    Ability to work independently as well as part of a team
+•    Undergraduate degree or certificate in Data Science, Mathematics, Applied Mathematics, Statistics, Applied Statistics, Computer Science, Computer Engineering, Electrical Engineering, Physics, or a similar field of study
+
+
+PREFERRED SKILLS:
+•    Prior experience building a data lake
+•    Prior experience with HL7 FHIR
+•    2+ years of hands-on experience using SQL
+•    5+ years of experience performing data science tasks using cloud-based technologies
+•    7+ years of hands-on experience in either R or Python
+•    Graduate degree in Data Science, Mathematics, Applied Mathematics, Statistics, Applied Statistics, Computer Science, Computer Engineering, Electrical Engineering, Physics, or a similar field of study
+
+
+LOCATION
+This position is located at the NYC Department of Health and Mental Hygiene, Gotham Center, 42-09 28th Street, Queens, NY 11101. The candidate will follow the agency’s work-from-home policy until further announcements are made.
+
+SALARY AND BENEFITS
+Salary for this position is commensurate with experience, 35 hours per week.
+
+ 
+
+TO APPLY
+To apply, send Resume, with Cover Letter, including salary requested and how your experience relates to this position.
+
+ 
+
+The Fund for Public Health in New York City is an Equal Opportunity Employer and encourages a diverse pool of candidates to apply.

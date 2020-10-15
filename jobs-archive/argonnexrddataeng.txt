@@ -1,0 +1,48 @@
+RD2 Data Engineering Specialist / RD3 Data Engineer
+Requisition Number: 407668
+Location: Lemont, IL
+
+Functional Area: Research and Development
+Division: XSD-X-Ray Science Division
+
+Employment Category: Regular
+Shift: 8:30 - 5:00
+
+Level (Grade): RD2
+
+Share:
+Facebook
+LinkedIn
+Twitter
+
+
+
+Position Description
+
+
+The X-ray Science Division (XSD) of Argonne National Laboratory enables world-class research using x-rays by developing cutting edge X-ray instrumentation and techniques, and pursuing research in the physical, chemical, environmental, and materials sciences. To accomplish this mission, XSD fully operates 43 beamlines and is a partner in the operation of three more beamlines at the Advanced Photon Source (APS). We are currently seeking to fill an Data Engineering Specialist position.
+
+Today, the APS collects approximately 10 PB of raw experimental data per year from approximately 100 sophisticated instruments performing work in a variety of scientific domains. Over the coming decade, the APS anticipates this annual data volume will increase by multiple orders-of-magnitude. This is an exciting opportunity to be at the forefront of solving data and computing solutions needed to answer pressing scientific questions that face the nation today.
+
+The Data Engineering Specialist will be a part of a team developing the strategic direction for facility-wide data architectures and engage in hands-on activities related to the design, development, maintenance, and support of data management solutions for scientific instruments at the APS. The position works independently and collaboratively with staff, scientists, and external collaborators to deliver solutions, and may have project leadership responsibilities. Work may involve the development of computational techniques and software development for scientific data management, processing, and visualization, and utilize high-performance computing platforms.
+
+Position Requirements
+
+
+Knowledge, Skills, and Experience:
+
+Knowledge and experience with scientific software development in Python or C++, and the ability to work under common Linux command shells.
+Knowledge and experience with object-oriented programming and design patterns.
+Knowledge and experience with software project management techniques such as revision control, build tools, and issue tracking.
+A foundation in computer science, computational/data science, mathematics, physics or a related field.
+Strong analytical and problem-solving skills.
+Ability to think independently and innovatively to develop exceptional technical solutions.
+Strong verbal and written communication skills, and a proven ability to write research reports and publications.
+Strong organizational skills and attention to detail.
+Ability to work independently and as part of a team, including the ability to interact well with external collaborators and represent the organization as a prime contact.
+
+RD2 Requirements: Bachelor’s Degree and 5+ years of experience; Master’s and 3+ years; Doctorate and 0 years, or equivalent.
+RD3 Requirements: Bachelor’s Degree and 8+ years of experience; Master’s and 5+ years; or Doctorate and 4+ years; or equivalent.
+As an equal employment opportunity and affirmative action employer, and in accordance with our core values of impact, safety, respect, integrity and teamwork, Argonne National Laboratory is committed to a diverse and inclusive workplace that fosters collaborative scientific discovery and innovation. In support of this commitment, Argonne encourages minorities, women, veterans and individuals with disabilities to apply for employment. Argonne considers all qualified applicants for employment without regard to age, ancestry, citizenship status, color, disability, gender, gender identity, genetic information, marital status, national origin, pregnancy, race, religion, sexual orientation, veteran status or any other characteristic protected by law.
+
+Argonne employees, and certain guest researchers and contractors, are subject to particular restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1. You will be asked to disclose any such participation in the application phase for review by Argonne’s Legal Department.

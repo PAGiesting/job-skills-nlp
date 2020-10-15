@@ -1,0 +1,84 @@
+
+Echodyne Careers
+Data Analyst
+
+Engineering Kirkland, Washington
+Apply
+Description
+
+HELP US BUILD THE NEXT GENERATION RADAR
+
+ 
+
+It’s not often you get the chance to change industries by bringing truly breakthrough technology to market – technology that not only disrupts existing markets but creates vast new ones. It’s hard and challenging work, but it’s also exciting, energizing, satisfying, and rewarding!
+
+ 
+
+Drones, autonomous cars and trucks, heavy machines, even flying cars. Echodyne has applied the physics of metamaterials to create a new category of sensor that provides the critical high-resolution, ground-truth data that autonomous machines and vehicles need to operate safely at any time and in any weather.
+
+ 
+
+Echodyne’s Metamaterials Electronically Scanning Array (MESA) is changing the way people think about commercial radar. Built on decades of research, Echodyne brings high-performance radar to commercial markets and applications constrained by Cost, Size, Weight or Power.
+
+ 
+
+Echodyne is seeking a Data Analyst with expertise in statistical analysis of complex datasets to join itthe team. The ideal candidate is a curious, meticulous, systematic problem solver who thrives in an interactive close-knit team, and has the motivation and experience to complete projects with minimal supervision. Their work will make a direct daily impact on our customers, products, and sales.
+
+ 
+
+Responsibilities:
+
+    Collaborate with Field Application Engineering, Product, and Business Development teams to understand what their analysis needs are.
+    Design experiments and field test procedures to answer specific sensor performance questions.
+    Build scripts for one-off analyses.
+    Build pipelines (mainly in Python) for recurring design verification testing.
+    Produce written reports summarizing the results of analyses for internal and external consumption.
+    Explore available radar data in an open-ended way looking for new insights.
+
+ 
+
+Required skills / experience:
+
+    Good written and verbal communication to both understand what is needed from a test or analysis, and to share conclusions.
+    Good technical writing and data visualization skills to make conclusions and outcomes readily interpretable and useful to internal and external technical and non-technical audiences.
+    Solid statistics background.
+    Proficiency in Python/Pandas/Jupyter, SQL, statistics (hypothesis testing, regression, detection/decision/classification metrics such as TPR/FPR/Precision/Recall/Confusion matrix), 3D geometry (vectors, rotations, coordinate transforms, linear algebra)
+    Good spatial understanding and ability to work with multidimensional data.
+
+ 
+
+Desired skills / experience (complementary to the required core skills):
+
+    Linux proficiency
+    Ability to learn new tools and technology
+    Familiarity with detection, classification, tracking, and state estimation.
+    Matlab knowledge would be a plus.
+    Basic understanding of electromagnetics, antennas, wave-propagation, and classical mechanics.
+    Basic understanding of digital signal processing.
+    Ability or willingness to learn how to retrain our existing machine learning classifiers.
+
+ 
+
+Qualifications:
+
+BS or MS degree in statistics, math, data science, engineering, or physics.
+
+U.S. person. This role may require handling export controlled (ITAR, EAR) data.
+
+ 
+
+ 
+
+Echodyne is an equal opportunity employer and supports workplace diversity.
+
+Apply Apply Later
+← Back to Current Openings
+Share
+LinkedIn
+Facebook
+Twitter
+Email
+
+Powered by Jobvite
+
+You have been redirected to a Echodyne job page
