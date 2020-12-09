@@ -1,0 +1,52 @@
+Computational Mathematician/Statistician
+Requisition Number: 5197
+Location: Lemont, IL
+
+Functional Area:
+Division: MCS-Mathematics and Computer Science
+
+Employment Category: Regular
+Shift:
+
+Level (Grade): RD2
+
+Share:
+Facebook
+LinkedIn
+Twitter
+
+
+
+Position Description
+
+
+The Mathematics and Computer Science Division at Argonne National Laboratory seeks well-prepared candidates in applied mathematics, numerical analysis, optimization, numerical software, and statistics for multiple positions at career levels from postdoctoral researchers to senior staff researchers. The appointment level will be commensurate with experience.
+
+The positions will address software/algorithm development and/or theory in areas of interest to the applied mathematics, numerical software, and statistics group. Candidates should have expertise in one or more of the following areas:
+
+Nonlinear optimization, including mixed-integer, multiobjective, stochastic/robust, PDE-constrained, simulation-based, dynamics, derivative-free, and parallel/concurrent optimization
+Machine learning, data analysis, applied statistics, and uncertainty quantification
+Statistical inference and analysis, sampling, spectral estimation
+Stochastic processes, stochastic differential equations
+Data assimilation, inverse problems
+High-order methods for PDEs/CFD including spectral element methods
+Numerical linear algebra focusing on highly scalable preconditioners including matrix-free methods
+Numerical methods for ordinary and partial differential equations including error estimators and adjoints
+Automatic/algorithmic differentiation
+Quantum information sciences, including quantum computing, networking, and simulation
+This is an Evergreen job posting which allows candidates to apply once to be considered for multiple job requisitions; you may be asked to apply to a specific job posting in the future.
+
+
+Position Requirements
+
+
+Applicants should have a master’s or doctorate degree in computer science, mathematics, operations research, statistics, or a related discipline.
+Applicants should have documented and comprehensive expertise, commensurate with their experience, in computational mathematics, computational science, or numerical libraries.
+Programming experience in C, Python, Fortran, or another programming language is desirable; experience with parallel computing is desirable.
+Openings are available immediately, but there is flexibility in start dates for highly qualified candidates. More information on applied mathematics, numerical software, and statistics work at Argonne may be found at https://www.anl.gov/mcs/lans. Feel free to contact members of the LANS group directly by email with specific questions.
+
+About Argonne: Argonne is a multidisciplinary science and engineering research center, where world-class researchers work alongside experts from industry, academia, and other government laboratories to address vital national challenges in clean energy, environment, technology, and national security. We pursue big, ambitious ideas that redefine what is possible. Our pursuit of groundbreaking discoveries pushes the boundaries of fundamental science, applied science, and engineering to solve complex challenges and develop useful technologies that can transform the marketplace and change the world.
+
+As an equal employment opportunity and affirmative action employer, and in accordance with our core values of impact, safety, respect, integrity and teamwork, Argonne National Laboratory is committed to a diverse and inclusive workplace that fosters collaborative scientific discovery and innovation. In support of this commitment, Argonne encourages minorities, women, veterans and individuals with disabilities to apply for employment. Argonne considers all qualified applicants for employment without regard to age, ancestry, citizenship status, color, disability, gender, gender identity, genetic information, marital status, national origin, pregnancy, race, religion, sexual orientation, veteran status or any other characteristic protected by law.
+
+Argonne employees, and certain guest researchers and contractors, are subject to particular restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486.1. You will be asked to disclose any such participation in the application phase for review by Argonne’s Legal Department.

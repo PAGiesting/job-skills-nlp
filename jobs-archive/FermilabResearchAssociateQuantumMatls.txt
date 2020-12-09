@@ -1,0 +1,45 @@
+Fermilab’s Superconducting Quantum Materials and Systems (SQMS) Center is seeking candidates for multiple Research Associate positions to perform experimental research in the area of superconducting qubits material analysis and/or qubit fabrication. The SQMS Center was established by the National Quantum Initiative Act as a hub in a new cooperative ecosystem built from national labs, universities, and leading companies. The mission of the SQMS Center is to build revolutionary new quantum science platforms that exploit superconducting radio frequency cavities and superconducting qubits for quantum information science (QIS) in the area of quantum computing, quantum sensing and quantum physics experiments.
+
+The successful candidate is expected to work closely with quantum computing researchers at Fermilab and in the larger community associated with the Superconducting Quantum Materials and Systems (SQMS) Center. Areas of immediate interest include research on qubit technologies based on superconducting circuits and cavities, material analysis, development of novel architectures and/or materials for qubits, development of novel qubit fab and superconducting films deposition systems.
+
+As a member of the Center, the position will involve working with a multidisciplinary team, including others who contribute expertise in materials and devices. The research will take advantage of world-class facilities and testbeds available both at Fermilab and with national and international Center partner institutions. It will build on platforms enabled by world leading coherence times of superconducting radiofrequency cavities to improve discovery potential.
+
+We respect, understand, and value individual differences that embody the principles of diversity and abide by all environment, safety, and health regulations. We believe teams are the most successful when everyone may bring their whole selves to work. You would be joining a team with a deeply held commitment to developing and promoting an inclusive work environment.
+
+Positions are for a period of up to three (3) years, with the potential for extension considered on a yearly basis thereafter.
+
+You Will
+
+Investigate the origin of two-levels systems (TLS) – limiting factors to the performance of quantum devices – of various metallic and insulating materials from the material characterization point of view.
+Study insulators typically used in quantum devices
+Investigate the correlation between quantum devices RF performance and surface nanostructure
+Study of metal/insulator and metal/metal interfaces in quantum devices
+Design, engineer and fabricate novel qubits and novel qubits fabrication facilities
+Participate in data acquisition; conduct data analysis and present/publish outcomes in conference proceedings or refereed journals.
+Abide by and be responsible for performing all duties in accordance with all environmental, health and safety regulations and practices pertinent to this position.
+Respect, understand and value individual differences that embody the principles of diversity.
+We Are Looking For
+
+PhD in Physics, Materials Science or related disciplines by the time of the appointment.
+Strong background in material science and QIS is preferred
+Expertise in material characterization is preferred, including:
+XPS
+XRD
+SEM
+TEM
+Expertise in qubit fabrication or thin film deposition such as CVD/ALD techniques is preferred
+Excellent verbal and written communication skills as demonstrated by presentations at conferences and a record of publication(s) in peer-reviewed journals.
+
+Application Instructions
+
+Interested candidates should submit via Academic Jobs Online:
+Cover letter
+Curriculum Vitae
+Research Statement
+Publication List
+Three Reference Letters (to be submitted by the reference writers at the AJO site).
+
+https://academicjobsonline.org/ajo/jobs/17575
+
+
+For general information about this position, please contact Anna Grassellino annag@fnal.gov and Mattia Checchin checchin@fnal.gov

@@ -1,0 +1,41 @@
+GD123 AI/Machine Learning Technologist/Data Scientist for Earth Sciences Applications
+ADNET Systems, Inc.
+10 reviews
+-
+Greenbelt, MD 20771
+Job match details
+
+    Experience & Skills
+    Education & Certificates
+
+    matching qualificationRmatching qualificationNatural language processingmatching qualificationAWSmatching qualificationC++matching qualificationLinuxmatching qualificationPython
+
+GD123 AI/Machine Learning Technologist/Data Scientist for Earth Sciences Applications
+
+Are you ready to launch an exciting new career working at NASA? This position is a unique opportunity to apply your AI/Machine Learning expertise towards a meaningful, impactful purpose. Apply your machine learning (ML), artificial intelligence (AI) and data mining expertise to (1) develop innovative solutions for streamlining data generation and reducing the cost of data center operations and (2) understand changing user needs and preferences in order to enable users to optimally benefit from the multi-petabyte NASA Earth science data archives to solve societal problems. Join us and make a difference in NASA and our collective stewardship of data that is key to understanding environmental impacts on this planet.
+
+NASA's Goddard Space Flight Center, nestled in the Maryland suburbs of Greenbelt, is just 30 minutes from the heartbeat of America-Washington, D.C.
+
+This position requires a highly motivated and innovative AI/Machine Learning Technologist/Data Scientist for Earth Sciences Applications to lead and accelerate ongoing efforts to infuse ML technologies into the operational infrastructure of the NASA Goddard Earth Sciences Data and Information Services Center (GES DISC; http://disc.gsfc.nasa.gov). The GES DISC is a leading global data center that helps provide solutions to users worldwide in research, applications, and education. Its core mission is to provide user-focused science support for a wide range of NASA Earth sciences data products. The latter include legacy, current, and future NASA Earth sciences mission data (satellite and modeling), and discipline-related products (e.g., Atmospheric Composition, Climate, Water Energy Cycle, Hydrology, Precipitation). The GES DISC is a unique and challenging environment at the intersection of Earth sciences, technology and engineering, and user-focused operational support.
+
+Position responsibilities will include (1) developing an understanding of the Earth sciences data at the GES DISC and the operational environment in which they are archived and their science support are provided to users; (2) developing ML-base tools to improve and streamline existing operational components (e.g., smart search engine, guided data discovery); (3) transforming and ML-enabling the GES DISC operational environment (e.g., dynamic resource allocation); and (4) developing extensive documentation to facilitate operations integration and ensuring institutional memory. This position requires the ability to effectively work across the Science, Engineering, and Operational Groups of the GES DISC to integrate ML-based enhancements. As such, excellent communications skills are a must.
+
+
+Required:
+
+    B.S. in Computer Science, Physical Sciences, Applied Mathematics, or Statistics with a minimum of 3 years commensurate experience with current Machine Learning technologies and tools, learning algorithms, Natural Language Processing, Python; or M.S. with a minimum of 1 year experience
+    Excellent communication skills (both written and oral), and interpersonal skills working with internal and external customer
+    Motivated individual with a keen sense for problem solving and ability to work both with little supervision and as integral part of a team
+
+
+*** USA Citizenship or Permanent Residency is a must ***
+
+Desired:
+
+    Familiarity with UNIX/Linux environment
+    Familiarity with AWS environment
+    Familiarity with Earth sciences data formats (e.g., HDF, netCDF)
+    Experience with other programming languages (e.g., C++, Julia, R)
+    Experience visualizing scientific data or presentation of data for scientific purposes
+    Experience writing proposals; incumbent is encouraged to take advantage of opportunities that exist to help GES DISC expand its lines of business
+    Experience mentoring junior staff members and/or interns

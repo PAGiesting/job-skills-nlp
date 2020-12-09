@@ -1,0 +1,56 @@
+Description
+
+Job Description:
+Why wake up every day and want more when YOU CAN HAVE IT? Do you love KNOWING at the end of each day that your work made a difference? We embrace and solve some of the world's toughest challenges. We’re focused on ensuring our intelligence customers have the right tools, technologies, and tactics to keep pace with an ever evolving threat landscape and succeed in their mission to protect people and critical assets around the world. Who wouldn’t be fulfilled being part of that every day? We know once you join Team Leidos, you are sure to go home at the end of every day knowing YOU MADE A DIFFERENCE, resulting in one of the most REWARDING careers you could have imagined. EACH DAY MATTERS!
+
+
+Leidos is seeking a Data Scientist to provide mission critical support to our customer. In this role, you will uses Data Science and Engineering techniques to satisfy customer requirements. This role requires familiarization with a broad range of data analysis tools and techniques in order to leads complex projects requiring data analysis, interpretation, and communication to support decision-makers and customers. You will implement data auditing, reporting, and security through the use of existing tools and developing new ones. Requires a familiarization with a broad range of data analysis tools and techniques
+Primary Responsibilities
+
+Create innovative solutions to meet the technical needs of customers.
+Develop custom data models and algorithms to apply to data sets.
+Participate in the development of documentation.
+Coordinate closely with customers, Scrum Masters, and cross-functional areas to communicate project statuses and initiatives.
+Analyze data to effectively coordinate the installation of new systems or modifications to existing systems.
+Support the Agile software development lifecycle.
+Communicate key project data to team members and build team cohesion and effectiveness.
+Develop and execute project plans leveraging Atlassian tool suite like JIRA and Confluence to track activities.
+Apply best practices and standard operating procedures.
+Basic Qualifications
+
+Candidate must have a BS and 2-4 years or prior relevant experience or Masters and 2 years or prior relevant experience. Additional years of experience can be accepted in lieu of education.
+Excellent communication skills: written, verbal and presentation, in order to coordinate across teams to support decision-makers and customers.
+Preferred Qualifications
+
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Experience visualizing/presenting data for stakeholders.
+Experience querying and analyzing machine logs.
+Clearance/Citizenship
+
+Candidate must be US Citizen.
+Candidate must have an active TS/SCI with Polygraph
+External Referral Bonus:
+Eligible
+Potential for Telework:
+No
+Clearance Level Required:
+Top Secret/SCI with Polygraph
+Travel:
+No
+Scheduled Weekly Hours:
+40
+Shift:
+Day
+Requisition Category:
+Professional
+Job Family:
+Data Scientist
+
+Leidos is a Fortune 500® information technology, engineering, and science solutions and services leader working to solve the world’s toughest challenges in the defense, intelligence, homeland security, civil, and health markets. The company’s 38,000 employees support vital missions for government and commercial customers. Headquartered in Reston, Va., Leidos reported annual revenues of approximately $11.09 billion for the fiscal year ended January 3, 2020. For more information, visit www.Leidos.com.
+
+Pay and benefits are fundamental to any career decision. That's why we craft compensation packages that reflect the importance of the work we do for our customers. Employment benefits include competitive compensation, Health and Wellness programs, Income Protection, Paid Leave and Retirement. More details are available here.
+
+Leidos will never ask you to provide payment-related information at any part of the employment application process. And Leidos will communicate with you only through emails that are sent from a Leidos.com email address. If you receive an email purporting to be from Leidos that asks for payment-related information or any other personal information, please report the email to spam.leidos@leidos.com.
+
+All qualified applicants will receive consideration for employment without regard to sex, race, ethnicity, age, national origin, citizenship, religion, physical or mental disability, medical condition, genetic information, pregnancy, family structure, marital status, ancestry, domestic partner status, sexual orientation, gender identity or expression, veteran or military status, or any other basis prohibited by law. Leidos will also consider for employment qualified applicants with criminal histories consistent with relevant laws.

@@ -1,0 +1,52 @@
+Data Analytics - Machine Learning Engineer
+Corning
+Location: Painted Post, NY, US, 14870
+
+Company: Corning
+
+Requisition Number: 42564
+
+
+Corning is one of the world’s leading innovators in materials science. For more than 160 years, Corning has applied its unparalleled expertise in specialty glass, ceramics, and optical physics to develop products that have created new industries and transformed people’s lives.
+
+Corning succeeds through sustained investment in R&D, a unique combination of material and process innovation, and close collaboration with customers to solve tough technology challenges.
+
+Corning’s Environmental Technologies segment manufactures ceramic substrates and filter products for emissions control in mobile and stationary applications around the world.
+
+
+Scope of Position:
+
+This candidate should have experience with management/manipulation of large data sets and extensive knowledge of a variety of data analysis methods to include “long data” and “wide data” methods. Data analysis tools and methods include, but are not limited to, applying regularization techniques and cross-validation strategies classification and regression problems, gradient boosting models, neural networks, and other machine learning techniques for supervised and unsupervised learning. The analytical work will support a range of projects from highly technical problems to making business predictions. This will also involve work from manufacturing, development, research, supply-chain and commercial applications. It is expected that this person will, on occasion, create predictive tools that will enable both business and technical decisions. The work will involve devising graphical presentation methods to explain results to others. The candidate should have proficiency explaining model methods and predictions in terms of feature importance.
+Day to Day Responsibilities:
+
+Work independently and collaborate with subject matter experts and cross-functional teams to solve difficult problems, develop and test hypotheses related to materials and process understanding, and communicate results to teams and stake-holders as needed
+Develop empirical models using appropriate methods and software; expanding capabilities as needed
+
+Travel requirements: based on projects; typically US travel only; 3-4 weeks per year; less than 25% annually
+Hours of work/work schedule/flex-time: Normal Business Hours 8:00-5:00 with additional hours occasionally needed for urgent project demands.
+Required Education and Experience:
+
+Minimum of a Master’s Degree in Statistics, Data Science, Computer Science, Mathematics, Engineering, or related field (MS or PhD strongly desired)
+A minimum of 1 year of relevant experience or coursework in Machine Learning.
+Required Skills:
+
+Good verbal and written communication skills
+Data analysis experience using any mix of software including, but not limited to: Python, R, Scala, JMP, MATLAB.
+Desired Skills:
+
+Familiarity, ensemble methods, CNN, LSTM.
+Familiarity with incorporating relevant physics or chemistry in interpretation of model results.
+Familiar with open-source tools for data analytics such as Python, TensorFlow, PyTorch, XGBoost, Catboost.
+Familiarity with PowerBI
+Soft Skills:
+
+The candidate must be collaborative and able to openly engage with colleagues to achieve project goals and can translate difficult technical concepts to broader audience across all levels of the organization. The candidate should be self-motivated with an ability to manage one’s own work independently and be able to communicate effectively by phone and video with team members in international locations. Ideally this candidate will effectively give and receive feedback to help themselves and others grow as professionals.
+
+
+This position does not support immigration sponsorship.
+
+
+We prohibit discrimination on the basis of race, color, gender, age, religion, national origin, sexual orientation, gender identity or expression, disability, or veteran status or any other legally protected status.
+
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.

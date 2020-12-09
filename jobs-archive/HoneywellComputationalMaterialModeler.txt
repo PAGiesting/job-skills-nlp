@@ -1,0 +1,46 @@
+Join the industry leader to design the next generation of breakthroughs
+The future is what you make it!
+
+When you join Honeywell, you become a member of our team of problem solvers, innovators, dreamers, and doers who make the things that make the future. Working at Honeywell isn’t just about developing cool things. That’s why all of our employees enjoy access to career opportunities across different fields and industries.
+
+Are you ready to help us make the future?
+
+Honeywell’s Federal Manufacturing & Technologies business manages the U. S. Department of Energy’s Kansas City National Security Campus in Missouri and New Mexico, manufacturing sophisticated mechanical, electronic, and engineered-material components for our nation's defense system. Honeywell is on the leading edge of supplying engineering and manufacturing expertise for our nation's defense and national security. Visit kcnsc.doe.gov for more information about working for Honeywell at the Kansas City National Security Campus.
+
+***This position will be in Kansas City, MO***
+
+JOB DUTIES:
+
+KCNSC is looking for Engineers and Scientists that enjoy academic pursuit of industrial problems. Base understanding of materials is a must, with either a focus on metal / metal alloys OR polymers / soft materials. Individuals will work closely with other simulation experts that cover a wide range of physics and length scales. Individuals will also be required to interface closely with internal and external customers, collaborators, and national lab counterparts. Expectations will be around running simulation codes, analyzing data, running experiments, and researching problems of interest. Some project management will be required.
+
+Summary of Duties:
+
+Evaluate the manufacturing and design of materials using simulation technologies
+Develop / improve techniques for analyzing materials
+Aid in future development of software/hardware for simulation support
+Interface with both internal KCNSC customers and Design Agency partners
+Must be able to work in cross functional teams
+Conducts activities in a safe and healthy manner and work in accordance with established HS&E requirements to ensure the protection of associates, the public, and the environment.
+You Must Have:
+
+US citizenship in order to obtain and maintain US Dept of Energy "Q" level security clearance
+Bachelors in Chemistry, Mechanical Engineering, Chemical Engineering, Physics, Material Science, Metallurgical Science with 2+ years’ experience in an R&D environment.
+Experience with metals / metal alloys OR polymers / soft materials
+Experience with modeling codes/methods (CALPHAD and phase-field OR Molecular Dynamics, COMSOL Monte Carlo, phase-field, DFT)
+Scripting/Coding experience, preferably Python
+We Value:
+
+Masters (thesis) or PhD in Chemistry, engineering, physics, material science, Metallurgical Science, or similar.
+In-depth knowledge of metals / metal alloys, ceramics, OR polymers / soft materials
+Understanding of bridging length scales using simulation and modeling
+Understanding of the Integrated Computational Materials Engineering methodology
+Understanding Agile and scrum methodologies
+Understanding of HPC environments
+Linux commands
+Additional Information
+JOB ID: req243642
+Category: Engineering
+Location: 9221 Ward Parkway,Kansas City,Missouri,64114,United States
+Exempt
+Must have or be eligible for a security clearance due to contractual requirements.
+Honeywell is an equal opportunity employer. Qualified applicants will be considered without regard to age, race, creed, color, national origin, ancestry, marital status, affectional or sexual orientation, gender identity or expression, disability, nationality, sex, or veteran status.

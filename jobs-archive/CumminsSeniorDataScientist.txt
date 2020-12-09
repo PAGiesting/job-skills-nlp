@@ -1,0 +1,75 @@
+Cummins is a place big enough to coach and develop a global workforce and create the world’s leading clean, engine technology. We’re also small enough for you to find your fit and personal passion with a team of dependable, innovative thinkers who are developing their careers within a diverse, inclusive, empowering environment.
+Learn more about this role and how you can begin Powering your potential .
+Our Business Unit delivers reliable, durable, high performing products to our global partners. Working in an innovative space, you’ll develop high tech solutions that will fuel your advanced career skill set and empower you to own your career. Our integrated businesses demand the talents and creativity of individuals with a wide range of skills and experience.
+This is an exciting opportunity in Columbus, IN for a Senior Data Scientist.
+Solves complex analytical problems using quantitative approaches through a combination of analytical, mathematical and technical skills.
+Researches, designs, implements and validates complex algorithms to analyze diverse sources of data to achieve targeted outcomes by leveraging complex statistical and predictive modeling concepts.
+Participates in projects to support key objectives and business goals using data science methodology.
+Leverages data science methodology to solve complex business problems.
+Creates multiple algorithms using complex statistical methodologies using statistical programming languages and tools.
+Partners with domain experts to verify model capabilities.
+Partners with Solution Architect to enable appropriate data flow/data model, development using appropriate tools/technology, rapid prototyping and informs the design of analytical products.
+Partners with less experienced employees on data science tools and methodologies.
+Clearly articulates results, methodologies and learnings to stakeholder and peer group.
+Continuous development and advancement of the team through knowledge sharing and collaboration.
+Work closely with Data Engineers to assess data quality, preparation, integration and ingestion for robust data pipeline design.
+Apply open source tools to analyze data, customize and improve the code, data science solutions and algorithms to meet the success criteria as defined in projects specifications,
+Apply software development process to Python/R/Scala code, this includes software best practices, code review, design reviews to assure good quality software design.
+
+Qualifications
+Skills:
+Statistical Modeling - Develops descriptive and explanatory statistical models, and simulations for regression, classification, outlier detection, anomaly detection, time series forecasting using knowledge of foundational statistics such as null hypotheses significance tests, regression models, generalized linear modeling, time series analysis, rank statistics, probability distribution fitting survival analysis, etc. to validate hypotheses for any given statistical or business question.
+
+Data Mining - Extracts insights from data by identifying relationships and patterns through use of a suite of data exploration and data visualization techniques to understand the underlying structure of the data and enable sound conclusions upon model building.
+
+Problem Solving - Solves problems using a systematic analysis process by leveraging industry standard methodologies to create problem traceability and protect the customer; determines the assignable cause; implements robust, data-based solutions; identifies the systemic root causes and recommended actions to prevent problem reoccurrence.
+
+Predictive Modeling - Develops analytical or machine learning models by using appropriate variable transformations, feature selection strategies, imputation strategies, class rebalancing, resampling strategies and quality control measures to generate predictive insights used in solving business questions.
+
+Customer focus - Building strong customer relationships and delivering customer-centric solutions.
+
+Manages complexity - Making sense of complex, high quantity, and sometimes contradictory information to effectively solve problems.
+
+Decision quality - Making good and timely decisions that keep the organization moving forward.
+
+Requirements Analysis - Evaluates relationships and interdependencies between requirements based upon their complexity and value to the business in order to determine feasibility and prioritization.
+
+Programming - Creates, writes and tests computer code, test scripts, and build scripts using algorithmic analysis and design, industry standards and tools, version control, and build and test automation to meet business, technical, security, governance and compliance requirements.
+
+Tech savvy - Anticipating and adopting innovations in business-building digital and technology applications.
+
+Collaborates - Building partnerships and working collaboratively with others to meet shared objectives.
+
+Experience:
+Intermediate experience in a relevant discipline area is required with a demonstrated track record of analyzing complex business systems and large data sets. Knowledge of the latest technologies and trends in data science is highly preferred and includes:
+Familiarity analyzing complex business systems, industry requirements, and/or data regulations
+Background in processing and managing large data sets
+Applied knowledge of big data, open source and third-party toolsets
+SQL query language
+Clustered compute cloud-based implementation experience
+Experience in building analytical solutions
+Intermediate experiences in the following are preferred:
+Implementing Big Data platform solutions using open source and third-party tools
+Microsoft Azure and/or Amazon Web services environment
+Experience in Agile software development
+Familiarity with validation and testing of machine learning systems
+Familiarity with Continuous Integration and Continuous Delivery (CI/CD)
+Familiar with Big Data ecosystem and cloud computing such as Microsoft Azure or AWS.
+Education, Licenses, Certifications
+College, university or equivalent degree or equivalent work experience in relevant technical discipline is required.
+Compensation and Benefits
+Base salary rate commensurate with experience. Additional benefits vary between locations and include options such as our 401(k) Retirement Savings Plan, Cash Balance Pension Plan, Medical/Dental/Life Insurance, Health Savings Account, Domestic Partners Coverage and a full complement of personal and professional benefits.
+Cummins and E-verify
+At Cummins, we are an equal opportunity and affirmative action employer dedicated to diversity in the workplace. Our policy is to provide equal employment opportunities to all qualified persons without regard to race, gender, color, disability, national origin, age, religion, union affiliation, sexual orientation, veteran status, citizenship, gender identity and/or expression, or other status protected by law. Cummins validates right to work using E-Verify. Cummins will provide the Social Security Administration (SSA) and, if necessary, the Department of Homeland Security (DHS), with information from each new employee’s Form I-9 to confirm work authorization.
+Ready to think beyond your desk? Apply for this opportunity to start your career with Cummins today. careers.cummins.com
+
+#DAAAI
+Job
+SYSTEMS/INFORMATION TECHNOLOGY
+Primary Location
+United States-Indiana-Columbus-US, IN, Columbus, Sears Building
+Job Type
+Experienced - Exempt / Office
+Recruitment Job Type Exempt - Experienced
+Job Posting
+Jul 20, 2020, 11:19:03 AM

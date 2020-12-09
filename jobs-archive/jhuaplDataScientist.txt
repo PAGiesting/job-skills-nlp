@@ -1,0 +1,34 @@
+Do you love developing creative solutions to challenging problems?
+
+Are you passionate about providing real impact to the country’s toughest national security problems?
+
+Are you searching for engaging work with an employer that prioritizes continual innovation?
+
+If so, we are looking for someone like you to join our team at APL.
+
+The Large-Scale Analytics Group (QAS) develops software systems that incorporate artificial intelligence (AI) and machine learning (ML) algorithms on big data platforms and graph databases as well as visual analytics to find details hidden deep within large and complex data sets. We support multiple agencies within the US Government by applying innovative analytics to uncover activities such as epidemic hotspots, illegal activities, international trade fraud, illicit manufacturing of weapons of mass destruction, and cyber-crime. You will implement and apply computationally tractable solutions and corresponding data architectures to address the needs of our sponsors. We are seeking a confident leader, creative thinker, motivated problem solver, standout colleague, and life-long learner that wants to strengthen the safety and security of our country. You will join a hardworking team in an inclusive environment that cultivates intellectual curiosity, innovation and creativity.
+
+As a Data Scientist you will...
+
+Primarily design creative AI and ML algorithms as well as analytic pipelines for analyzing large-scale and complex data.
+Develop data architectures using technologies like Hadoop, Spark, and distributed graphs to support analytic algorithms.
+Build software applications and perform analytics on complex data.
+Clearly present results to both JHU/APL and Sponsor leadership.
+Potentially travel locally to sponsor sites on an occasional basis.
+You meet our minimum qualifications for this position if you…
+
+Possess a B.S. in Computer Science, Information Science, Mathematics, Physics, Operations Research, or a related discipline. 1-5 years of experience.
+Have experience with statistics, machine learning algorithms, or general algorithm development.
+Have a knowledge of modern large-scale data systems and architectures.
+Possess solid software development skills.
+Exhibit excellent social skills, the ability to work independently, excellent written and oral communications skills, and good organizational skills.
+Are able to obtain a Secret level clearance. If selected, you will be subject to a government security clearance investigation and meet the requirements for access to classified information. Eligibility requirements include U.S. citizenship.
+You’ll go above and beyond our minimum requirements if you …
+
+Have a M.S. or Ph.D. in the disciplines listed above, and have working knowledge of state-of-the-art large-scale data approaches and architectures. e.g. experience with quantum algorithms.
+Are experienced with software engineering processes and techniques.
+Why Work at APL?
+
+The Johns Hopkins University Applied Physics Laboratory (APL) brings world-class expertise to our nation’s most critical defense, security, space and science challenges. While we are dedicated to solving complex challenges and pioneering new technologies, what makes us truly outstanding is our culture. We offer a vibrant, welcoming atmosphere where you can bring your authentic self to work, continue to grow, and build strong connections with inspiring teammates.
+
+At APL, we celebrate our differences and encourage creativity and bold, new ideas. Our employees enjoy generous benefits, including a robust education assistance program, unparalleled retirement contributions, and a healthy work/life balance. APL’s campus is located in the Baltimore-Washington metro area. Learn more about our career opportunities at www.jhuapl.edu/careers.

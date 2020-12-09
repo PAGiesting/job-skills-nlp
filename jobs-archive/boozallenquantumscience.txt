@@ -1,0 +1,37 @@
+The Challenge:
+
+Are you excited at the prospect of unlocking the secrets held by a data set? Are you fascinated by the possibilities presented by the IoT, machine learning, and artificial intelligence advances? In an increasingly connected world, massive amounts of structured and unstructured data open up new opportunities. As a data scientist, you can turn these complex data sets into useful information to solve global challenges. Across private and public sectors — from fraud detection, to cancer research, to national intelligence — you know the answers are in the data.
+
+We have an opportunity for you to use your research and analytical skills to improve the field of quantum science use in government research programs. You’ll work closely with government program managers to track and evaluate the progress of sponsored research efforts performed by leading scientists across the country. You'll use your technical expertise to provide in-depth analyses, conduct background research, and interface with the research community at large to evaluate the feasibility of new concepts and help formulate ideas for new research programs. You’ll mentor teammates, develop algorithms, write scripts, build predictive analytics, apply machine learning, and use the right combination of tools and frameworks to turn that set of disparate data points into objective answers to help clients use a variety of advanced computational tools in addition to quantum computing to make informed decisions. You’ll provide your customer with a deep understanding of their data, what it all means, and how they can use it. Join us as we use data science for good in the federal government.
+
+Empower change with us.
+
+You Have:
+
+5+ years of experience with active research in physics, chemistry, mathematics, or applied statistics, including graduate school and postdoctoral research environments
+2+ years of experience with research in the areas of ion traps, superconducting qubits, semiconducting circuits, and linear optics or theoretical research on topics of quantum computing, quantum information, or quantum annealing
+Experience with authoring peer-reviewed papers
+Experience with programming languages for analytics or scientific applications, including Python and R
+Ability to communicate to both technical and non-technical audiences effectively
+Ability to obtain a security clearance
+MA or MS degree
+Nice If You Have:
+
+Experience with project management for scientific projects
+Experience with data science, including analysis, data visualization, and machine learning
+PhD degree
+Clearance:
+
+Applicants selected will be subject to a security investigation and may need to meet eligibility requirements for access to classified information.
+
+Build Your Career:
+
+At Booz Allen, we know the power of analytics and we’re dedicated to helping you grow as a data analysis professional. When you join Booz Allen, you can expect:
+
+access to online and onsite training in data analysis and presentation methodologies, and tools like Hortonworks, Docker, Tableau, and Splunk
+a chance to change the world with the Data Science Bowl—the world’s premier data science for social good competition
+participation in partnerships with data science leaders, like our partnership with NVIDIA to deliver Deep Learning Institute (DLI) training to the federal government
+You’ll have access to a wealth of training resources through our Analytics University, an online learning portal specifically geared towards data science and analytics skills, where you can access more than 5000 functional and technical courses, certifications, and books. Build your technical skills through hands-on training on the latest tools and state-of-the-art tech from our in-house experts. Pursuing certifications? Take advantage of our tuition assistance, onsite boot camps, certification training, academic programs, vendor relationships, and a network of professionals who can give you helpful tips. We’ll help you develop the career you want, as you chart your own course for success.
+
+We’re an EOE that empowers our people—no matter their race, color, religion, sex, gender identity, sexual orientation, national origin, disability, veteran status, or other protected characteristic—to fearlessly drive change.
+
