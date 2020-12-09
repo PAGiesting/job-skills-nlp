@@ -1,0 +1,61 @@
+iSalus Healthcare, an EverCommerce company, is looking for a Data Conversion Analyst to join our growing implementation team and play a key role in growing revenue for the organization.
+
+
+You:
+
+You are a great teammate that is passionate about making a significant impact at a growing company! As a Data Conversion Specialist, you use software tools and languages to extract, transform, and load customer legacy data from other software applications into a customer’s ChoiceEMR™ system. You will deliver an exceptional ChoiceEMR™ software data conversion experience to each customer resulting in an effective, timely conversion, and an elevated level of customer satisfaction.
+
+
+Us:
+
+iSalus Healthcare is a multi-dimensional, patient-driven, technologically enabled company. We provide an all-in-one, superior Electronic Medical Records (EMR) solution for small to large-sized practices across the United States. In addition, we offer Intelligent patient intake forms, Revenue Cycle Management, and Chronic Care Management services.
+
+
+Where:
+
+iSalus Healthcare is in downtown Indianapolis, Indiana. Our collaborative office space is filled with high-energy, talented people who enjoy our weekly lunches, happy hours, and basking in success. At this time we are working remotely as we assess the Covid-19 pandemic for 2021, and would prefer someone local to Indianapolis for when we open our office back up.
+
+
+What You’ll Do:
+
+Work with customers to extract data from legacy systems, including assistance in finding where data is stored in a database if the customer does not have knowledge.
+Import data into iSalus Healthcare’s ChoiceEMR™ system and review for accuracy.
+Resolve technical issues with conversion.
+Manage multiple data conversions simultaneously and prioritize effectively to ensure on-time Go Lives that meet iSalus Healthcare and customer timelines. This includes internal coordination with other Data Conversion and Onboarding Specialists, to ensure the availability of suitable resources for each Go Live.
+Use tact and diplomacy to set proper timelines and expectations throughout the data conversion process, including both verbal and written communication.
+Provide customer and Project Managers with clear documentation of progress, identifying possible areas of concern and work as needed to resolve
+Provide guidance and solutions consulting to our customers on industry best practices as they relate to data transformation.
+Exercise attention to detail and technical proficiency to identify customer-specific requirements and ensure proper data transformation.
+Collaborate with customers and internal resources to address system issues.
+Create and maintain technical documentation for varied past data conversions.
+Other duties as assigned.
+
+Required Experience & Skills:
+
+1 – 3+ years’ work experience as a Data Analyst with database and/or flat-file data conversions.
+Have a strong understanding of relational databases and SQL.
+Experience resolving issues with customers in a professional manner while working with challenging projects and objectives.
+Strong logic and critical-thinking ability; experience and creativity in troubleshooting data and software problems.
+Self-driven with the ability to effectively prioritize and execute tasks.
+Ability to listen, ask questions, build consensus, and solve ambiguous problems.
+Best-in-class attention to detail.
+Demonstrated history of superior communication skills, verbal and written, with diverse personalities, and different levels of technical competency.
+Ability to share knowledge and work in a strong team-oriented environment.
+Technical aptitude to learn software and technology quickly in a fast-changing environment.
+
+Highly Desired Experience & Skills:
+
+Experience in a startup-like environment (unstructured, ambiguous, resource-constrained, fast-paced).
+Patience and persistence.
+Logical thinker.
+Sense of humor.
+
+Benefits and Perks:
+
+Competitive salary.
+Robust medical benefits & 401k.
+Gym stipend.
+Start with 17 days of PTO and your birthday off.
+Company lunches and happy hours.
+
+Please note that you must be legally eligible to work in the United States for consideration for this position. EverCommerce is an equal opportunity employer and values diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. If you are looking for a company that is truly focused on empowering small businesses with superior technology, come join a company that rewards authenticity and supports energy with a passion.

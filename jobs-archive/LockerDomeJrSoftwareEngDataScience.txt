@@ -1,0 +1,17 @@
+LockerDome is an ad platform with a brain, designed specifically for performance-based advertising. The brain behind the platform is Neo, an in-house AI, which uses machine learning to process billions of data points and make intelligent decisions at lightning speed. Learn more at lockerdome.com.
+
+As a Junior Data Scientist on the Engineering & Product team, you will help design data models that enable decision making at scale.
+
+Your skills should include:
+Degree in a scientific or quantitative field, or proven proficiency in these areas
+Strong understanding of statistics and how it can be used with the scientific method and Bayesian statistics
+Strong technical ability in a data-focused programming language, such as R or Python
+Ability to solve unique or complex problems and explain your findings in a concise, actionable manner
+Ability to form useful machine learning models that have a measurable impact towards a target goal
+Ability to learn new skills and information sets quickly
+Experience with vector calculus is a plus
+Responsibilities:
+- Explore large data sets and identify trends on both short- and long-time scales; identify what types of models best apply towards a particular objective
+Implement predictive models that improve prediction accuracy
+Implement models that automate decision making at scale that optimize for target KPI
+Build data science models that tie directly into other existing models

@@ -1,0 +1,34 @@
+JOB DESCRIPTION
+Position – Junior Data Scientist
+Job Location – Livonia , Michigan
+Job Type – Full time (W2)
+at Soothsayer Analytics ()
+
+KEY SKILLS
+Data Science (must), Python (must), R (must), SQL (must)
+
+JOB DETAILS
+Soothsayer is seeking Junior Data Scientists to join its Data Science team in Detroit, MI. The Data Science team works on a variety of exciting analytics (ML, AI) projects.
+
+Job Description:
+
+Solve cutting edge, challenging problems working alongside a great team of world class data scientists and analytics experts
+Having a passion for solving interesting and challenging big data problems
+Communicate results to scientific, business, and stakeholders
+Mine data to prototype models for targeting and personalization
+Collaborate with other engineers, data scientists
+
+Education and Experience:
+
+Bachelors in Computer Science or Information Technology or foreign degree equivalent
+1-year of experience across one or more of the following disciplines: analytics, data warehousing, software engineering
+1-year experience with open source machine learning tools built in Python or R
+1-year experience with scripting languages (e.g., Python, Ruby, Perl, Bash)
+Data engineering experience, including SQL and manipulating large structured or unstructured datasets for analysis
+Strong hands on experience in implementing machine learning algorithms and models
+Excellent data presentation skills
+Soothsayer Analytics is an Equal Opportunity Employer and E-Verify Company.
+
+Soothsayer Analytics is a Data Science company based out of Livonia, MI and offices in Columbus, OH and offshore in Hyderabad India. Advanced Analytics firm focused on Pattern Recognition and Unstructured Data. Our team actively works with, creates, and researches cutting edge Data Science techniques. We approach each problem individually and architect custom solutions. Our strength lies in our ability to build and productize proprietary algorithms and analytical tools. Advised by 10 industry experts whose domain knowledge we leverage to better architect industry specific solutions. Our delivery partners include 20+ Data Scientists with a combined 75 Patents and 300+ Publications. We collaborate with this brain trust to keep us abreast of state-of-the-art techniques and to help deliver world-class results. We utilize cutting edge Machine Learning and Statistical Techniques to extract Hidden Insights and Patterns from Complex, High Dimensional, and Unstructured Data. Our major clients include: DOW Chemicals, Ford, Visteon, D&B, Timken, US steels, Steelcase, Abercrombie, Express, Stanley Steemer, Whirlpool, AEP, NiSource, GEA, etc.
+
+Soothsayer Analytics is an Equal Opportunity Employer and e-Verify Company.

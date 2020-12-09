@@ -1,0 +1,28 @@
+ASRC Federal, Mission Solutions (AFMS) is a premier provider of systems engineering, software engineering, system integration and project management services for real-time, mission-critical defense systems.
+ASRC Federal Holding Company has multiple subsidiaries that strive to provide cost-effective, quality solutions to government agencies. Our subsidiaries are determined to deliver on every commitment to every customer. ASRC Federal subsidiaries provide a wide array of services to a broad base of federal government agencies. We provide the common thread among our subsidiaries to ensure each customer and industry partner gets the benefits of our shared services model. ASRC Federal and our subsidiaries offer a respectful work environment where ideas can be shared, and an entrepreneurial spirit can be nurtured. We focus on our employees, so our employees can focus on our customers.
+ASRC Federal Mission Solutions (AFMS), is seeking a Measurement Process Engineer to join our dynamic Organizational Measurements Team. This full-time position, located in Moorestown, NJ, will report to our Metrics and Methodology Supervisor and affords the successful candidate an opportunity to apply his/her analytic knowledge and skills to perform roles that will bring in high value for the enterprise through measurement and reporting. This is an individual performer role with a widespread visibility into enterprise reporting systems.
+AFMS offers a very robust compensation and benefits package. This is an opportunity to work with an established team in a flexible and excellent work environment. Apply today!
+Job Functions and Requirements
+Experience with applying Statistical Techniques and Models in enterprise project management activities or organizational performance measurements
+Participates in topics related to organizational and quantitative performance measurement of projects and programs to support defining measurement systems driven by internal or customer needs
+Identifies, collects, stores, and validates measurement reporting data
+Applies measurement models and analyzes measurement data; collects data to identify root cause problems; implements plans to resolve problems.
+Prepares quarterly, monthly, weekly, and/or daily production/operations metric reports and/or workbooks.
+Interprets defect trends to initiate analysis of common causes and special causes
+Supports and reports on customer-sponsored Defect Causal Analysis activities as required.
+Implements planned enhancements to Measurement Program to meet internal and external requirements.
+Participates in projects, external audits and process improvements to support department initiatives.
+Brings skills in application of tools such as MS Excel, Minitab and other Data Analysis SW packages
+Knowledge and experience using SQL Databases, Java, C++, JavaScript, HTML is a plus.
+Knowledge in using six-sigma tools and methodology is a plus
+Updates and maintains current department work instructions.
+Supports department tool set maintenance.
+Knowledge and experience working with Capability Maturity Model Integrated -- Ver 2.0 would be a plus
+Excellent listening capability and ability to translate project data requirements into analysis reports
+Excellent Team Player, Energetic and High Performer
+Analytic thinking and excellent organizational skills
+Current active Secret government security clearance is highly desirable, but not required
+ASRC Federal and its Subsidiaries are Equal Opportunity/Affirmative Action employers. All qualified applicants will receive consideration for employment without regard to race, gender, color, age, sexual orientation, gender identification, national origin, religion, marital status, ancestry, citizenship, disability, protected veteran status, or any other factor prohibited by applicable law.
+Requirements:
+Bachelor's degree (Engineering, Computer Science, Information Sciences and Technology, Math, Physics, or related field) or equivalent related work experience
+2-4 years of experience in analytical role or software development

@@ -1,0 +1,76 @@
+SETI INSTITUTE
+
+POSITION DESCRIPTION
+
+ 
+
+Position Title:                                      Planetary Astronomer
+
+FLSA Status:                                        Full-Time, Exempt
+
+Reports to:                                           NODE Manager
+
+Location:                                              Mountain View, CA      
+
+ 
+
+                                                                                                                                       
+
+Position Summary:
+
+The SETI Institute is seeking a Planetary Astronomer to support the work of the Ring-Moon Systems Node (RMS) of NASA’s Planetary Data System (PDS). The successful applicant will be an integral part of the RMS Node Team, which shares responsibility for archiving, augmenting, cataloging, and distributing key data sets from NASA’s missions to the outer planets. The PDS ensures that the entire community of planetary scientists has seamless access to NASA’s archive of planetary data. The RMS Node’s primary focus is on data sets relevant to planetary systems in the outer solar system, including the rings and moons of the outer planets, atmospheric research, and astrogeology.
+
+ 
+
+The astronomer will focus primarily on ongoing efforts to enhance the scientific usability of RMS data sets, which include those from the Cassini, Voyager, Galileo, and New Horizons missions, as well as those from the Hubble Space Telescope and Earth-based observatories. We seek a curious and creative individual who is eager to work with data from diverse instruments and missions. The curation of planetary data requires someone who is able to understand the data’s scientific importance, assess the data’s validity, converse knowledgeably with fellow scientists, and confirm that documentation and descriptive metadata are sufficient for the needs of current and future scientists.
+
+ 
+
+The astronomer will collaborate closely with the Node Manager, Dr Matt Tiscareno, on all aspects of RMS Node planning and task management. They will understudy with longtime RMS Deputy Manager, Dr Mitch Gordon, and prepare to carry on his work as he approaches retirement.
+
+ 
+
+This is a full-time position with full benefits. However, the astronomer will be encouraged to seek additional research funding on any topic of their choosing including, but not limited to, topics related to the Node’s extensive data holdings. The position offers substantial growth potential for applicants who are able to demonstrate mastery of the key requirements.
+
+ 
+
+Responsibilities:
+
+    Work with NASA’s planetary missions and other data providers on the design, preparation, submission, and peer review of archived data sets.
+    Design and maintain PDS “dictionaries”, which are used to capture the key information about astronomical observations.
+    Develop data processing pipelines to validate existing data and metadata, and convert it into the new, modern “PDS4” standard.
+    Generate and assemble supporting metadata so the data products can be integrated into OPUS, our online search engine (see https://opus.pds-rings.seti.org).
+    Work within the larger PDS community to develop and enhance archiving standards.
+    Represent the Node at PDS working groups, project meetings, scientific meetings, and to NASA.
+
+    Help with website content, hardware management, and research tool development.
+
+    Participate in team discussions about the latest results in planetary astronomy and related fields.
+
+ 
+
+Requirements:
+
+    A Ph.D. or equivalent career experience in planetary astronomy, astrophysics, physics, or a closely related field. 
+    Experience in scientific data analysis and in writing research papers for peer review. 
+    A personal and demonstrable scientific interest in planetary systems is highly desirable.
+    Experience with computer programming for scientific applications is required. Proficiency with the Python programming language is highly desirable.
+    Excellent oral and written communication skills.
+    Must be detail oriented, pro-active, and flexible. 
+    Should have the initiative to work independently and as a team player.
+    Ability to multi-task in a fast-paced environment.
+    Willing to accept major responsibilities and able to perform under pressure.
+
+ 
+
+Diversity and Equity
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.
+
+
+ The SETI Institute is an Affirmative Action Employer and members of underrepresented communities and demographics are particularly encouraged to apply, including women, people of color, LGBTQ and people with disabilities. 
+
+ 
+
+Employment Details:
+ Applicants should be prepared to establish residence in the San Francisco Bay Area by the end of Summer 2021, within a comfortable commuting distance of Mountain View, California.

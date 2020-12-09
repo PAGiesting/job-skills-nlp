@@ -1,0 +1,76 @@
+All required qualifications must be documented on application materials.
+
+Required Qualifications:
+
+M.A./M.S. in Computer Science/Math/Statistics/Physics/Informatics or related technical discipline with one or more years of research training in a research or technical environment
+Experience with Matlab or Python or R.
+Experience with SQL or other database technology.
+Experience writing code for complex computer programs independently. Please provide a link to samples of your code available online (Github or similar services).
+Experience with machine learning and statistical methods.
+Demonstrated/documented strong communication skills.
+
+Additional Desirable (not required) Qualifications:
+
+Experience working with messy real-world data
+Experience in high-performance computing
+Experience working independently and collaboratively in a rapidly changing scientific environment
+Skills in data visualization
+Research experience in statistics/data science/related fields
+Experience publishing scientific papers in conferences/journals
+The Institute of Health Informatics (IHI) in the University of Minnesota is seeking a scientific programmer/data scientist to join Dr. Sisi Ma’s research team. Dr. Ma works on computational causal discovery and predictive modeling theory and method development. She also works on the application of these methods in biomedicine and health. This is a Researcher 5 classification position.
+
+Duties/Responsibilities:
+
+Conduct Analytical Experiments (60%)
+
+Construct datasets from various data sources for research.
+Design and implement data processing and analysis infrastructure; Ensure the integrity and security of data, code, and analytical experiments.
+
+Design, setup and run computational experiments to evaluate and benchmark cutting-edge machine learning algorithms.
+Design, setup and run computational experiments to execute algorithms on various types of biomedical or healthcare related data.
+
+Algorithm Development (25%)
+
+Implement machine learning, statistical, data-mining, bioinformatics/clinical informatics algorithms.
+Develop and modify software and demonstrations.
+Create documentation for all software, code and experiments.
+
+Publications and Presentations (10%)
+
+Write or help prepare technical reports and/or publications.
+Communicate and present analytical results to customers, scientists and clinicians.
+
+Mentor Junior Data Scientist (5%)
+The Institute for Health Informatics educates students and conducts research in the fields of biomedical and health informatics. In that work it focuses on the design, use, and evaluation of information systems that support and improve healthcare while protecting the safety and confidentiality of those who receive that care. It is an interdisciplinary endeavor that encompasses work in a variety of settings from tertiary care hospitals to specialty clinics, mental health facilities, community clinics, nursing homes, and home care agencies.
+
+The Institute's scope of research ranges from methodologic development in natural language processing to design of standard terminologies and ontologies and includes testing and evaluation of electronic health record systems, design and testing of better ways of presenting information to improve decision making and designing and implementing information systems to support clinical research.
+
+The University of Minnesota offers a comprehensive benefits package including:
+Competitive wages, paid holidays, vacation and sick leave
+Low cost medical, dental, and pharmacy plans
+Health care and dependent daycare flexible spending accounts
+Excellent retirement plans with employer match
+Disability and employer paid life insurance
+Wellbeing program with reduced insurance premiums
+Tuition reimbursement opportunities covering 75%-100% of eligible tuition
+Student loan forgiveness opportunity
+Opportunities for growth and promotion
+Employee Assistance Program
+For more information regarding benefits: https://humanresources.umn.edu/sites/humanresources.umn.edu/files/2019_tcd-fpa-75100-ben-0105-10_0.pdf
+
+Applications must be submitted online. To be considered for this position, please click the Apply button and follow the instructions. You will be given the opportunity to complete an online application for the position and attach a cover letter and resume.
+
+Additional documents may be attached after application by accessing your "My Job Applications" page and uploading documents in the "My Cover Letters and Attachments" section.
+
+To request an accommodation during the application process, please e-mail employ@umn.edu or call (612) 624-UOHR (8647).
+
+The University recognizes and values the importance of diversity and inclusion in enriching the employment experience of its employees and in supporting the academic mission. The University is committed to attracting and retaining employees with varying identities and backgrounds.
+
+The University of Minnesota provides equal access to and opportunity in its programs, facilities, and employment without regard to race, color, creed, religion, national origin, gender, age, marital status, disability, public assistance status, veteran status, sexual orientation, gender identity, or gender expression. To learn more about diversity at the U: http://diversity.umn.edu.
+
+Any offer of employment is contingent upon the successful completion of a background check. Our presumption is that prospective employees are eligible to work here. Criminal convictions do not automatically disqualify finalists from employment.
+
+
+The University of Minnesota, Twin Cities (UMTC)
+
+The University of Minnesota, Twin Cities (UMTC), is among the largest public research universities in the country, offering undergraduate, graduate, and professional students a multitude of opportunities for study and research. Located at the heart of one of the nation's most vibrant, diverse metropolitan communities, students on the campuses in Minneapolis and St. Paul benefit from extensive partnerships with world-renowned health centers, international corporations, government agencies, and arts, nonprofit, and public service organizations.

@@ -1,0 +1,50 @@
+Who We Are:
+
+Knowable is the market leader in turning contracts into structured data, and now we are building an ML based analytics platform to transform the way business leaders interact with their contracts. By converting contracts, unstructured legal language, into structured data, we help clients understand risk and identify opportunities. Knowable started as a product at Axiom Law, a start up that became the industry leader in alternative legal services. Now, financially backed by legal technology giant LexisNexis, we are transforming from services to a technology platform that leverage the latest in ML and NLP to render our already best in class workforce even better and more efficient. With 10 years of data collection and training data creation, we are poised to take the lead in the emerging market of Contract Analytics.
+
+Come join a company with the best of all worlds, a start up like culture with a proven sales and revenue model, and serious financial backing. We are building for a future that is quickly happening – join us and be part of that transformation!
+
+We are seeking a Junior Data Scientist to join our R&D Team, the location is flexible . Come be a part of it!
+
+The Role:
+
+As a Data Scientist on the Knowable team, you will work on new product development in a very small team environment writing production code for both run-time and build-time. You should feel comfortable as a developer in addition to your abilities with pure data. You will prototype new ideas and build-out existing systems, collaborating with other data scientists, product managers, front-end developers, and a dedicated full-time team of data annotators. You will get the experience of working in a start-up culture with the larger datasets and other resources of an established company through our partnership with RELX.
+
+This role reports to our lead of Data Scientist who is based in the Bay Area (CA).
+
+Location:
+
+Knowable has developer offices in San Francisco, Seattle, and Nashville. Remote candidates are also encouraged to apply.
+
+RESPONSIBILITIES
+
+Develop and implement NLP-based information extraction solutions
+Propose and identify trade-offs of various algorithmic solutions
+Interface with other team members to finalize requirements and translate them into software designs.
+Successfully implement development processes, coding best practices, and code reviews for production environments.
+TYPICAL QUALIFICATIONS
+
+MS in Computer Science, Statistics, Machine Learning, or another Data Science related field
+DATA SCIENCE AND NLP SKILLS
+
+Formal training in dimensionality reduction, clustering, and sequence classification algorithms
+Practical training in standard NLP methods and tools (OpenNLP, gensim, tensorflow, DJL, etc.)
+USEFUL TECHNICAL SKILLS
+
+Scala / Python / NodeJS Familiarity
+Functional Programming interest highly preferred.
+Understanding of data modeling principles.
+Working with complex, shifting data models.
+Cloud Development (AWS)
+Knowledge of Spark, or other distributed computing systems.
+Knowable is an Equal Opportunity Employer.
+
+For more info: https://www.knowabledata.com/
+
+Knowable is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1.877.734.1938 or accommodations@relx.com .
+
+Please read our Candidate Privacy Policy
+
+Knowable’s approach to due diligence and integration activities is designed to unlock the value embedded in contract and answer the questions that matter most.
+
+Knowable’s clients, including many of the most sophisticated and frequent corporate transactors in the world, know that a more strategic approach to contract diligence increases deal value. We agree!

@@ -1,0 +1,34 @@
+Does the chance to join a VC backed, fast growing software start-up in one of the hottest spaces right now excite you? Does the challenges of analyzing, normalizing, cleansing, and visualizing millions of data points and leveraging advanced machine learning models sound like a great opportunity to you?
+If yes, then continue reading ... we want to meet you!
+ENGAGE is a AI powered recruiting platform that solves a relatively difficult AI challenge: predicting people’s job security and likelihood to change jobs based on their professional background, career progression, and events impacting their companies and industries. The applications of our science are vast and impactful to people, businesses and the economy as a whole.
+ENGAGE has been recognized by Gartner as a 2016 Cool Vendor and as a “Must-Have” by Sourcecon. For more information about the company and our exciting solutions: www.engagetalent.com
+We are looking for a Data Analyst/ (junior) Data Scientist that will help us discover the information hidden in vast amounts of data and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data analysis techniques, doing statistical analysis, and building high quality reporting systems integrated with our products and operations. Eagerness to learn new skills and become an expert on the data and data modeling techniques as well as on the business problems that we are solving both internally and externally.
+
+Responsibilities
+
+Processing, cleansing, and verifying the integrity of data used for analysis
+Troubleshoot problems with data and processing
+Doing ad-hoc analysis and presenting results in a clear manner
+Creating visualizations and automated reporting for internal and external users
+Proactively identify ways to improve processes
+Extending company’s data with third party sources of information when needed
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Selecting features, building and optimizing models using machine learning techniques
+Skills and Qualifications
+
+BS in Mathematics, Economics, Computer Science, Information Management or Statistics
+Great communication skills
+Data-oriented and inquisitive personality
+Strong attention to detail
+Experience with data visualization best practices and tools, working knowledge of Sisense (preferred), Tableu, Domo, or similar tools is a huge plus
+Proficiency in using query languages such as SQL
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+Good scripting and programming skills, including languages like Python, R and leveraging tools like Apache Spark for handling large data processes
+Experience with machine learning techniques and algorithms is a plus
+BENEFITS
+Fully-covered health, dental, and vision insurance
+Flexible vacation policy
+Competitive compensation bonus structure
+Gym membership
+Education assistance to pursue further education like MSC, MBA. or PhD degrees
+Play a valuable key role in our rapidly growing, well funded start-up!
